@@ -1,0 +1,1825 @@
+25/11/2021, 15:20:59 - INFO - Server is running on port: 3000
+25/11/2021, 15:21:09 - INFO - Server is running on port: 3000
+25/11/2021, 15:21:21 - INFO - Req!!!
+25/11/2021, 15:24:55 - INFO - Server is running on port: 3000
+25/11/2021, 15:26:48 - INFO - Server is running on port: 3000
+25/11/2021, 15:26:54 - INFO - Req!!!
+25/11/2021, 15:27:06 - INFO - Req!!!
+25/11/2021, 15:27:11 - INFO - Req!!!
+25/11/2021, 15:27:12 - INFO - Req!!!
+25/11/2021, 15:27:28 - INFO - Req!!!
+25/11/2021, 15:27:33 - INFO - Req!!!
+25/11/2021, 15:27:53 - INFO - Server is running on port: 3000
+25/11/2021, 15:38:27 - INFO - Server is running on port: 3000
+25/11/2021, 15:38:32 - INFO - Req!!!
+25/11/2021, 15:39:04 - INFO - Server is running on port: 3000
+25/11/2021, 15:39:06 - INFO - Req!!!
+25/11/2021, 15:41:23 - INFO - Server is running on port: 3000
+25/11/2021, 15:41:41 - INFO - Server is running on port: 3000
+25/11/2021, 15:41:52 - INFO - Req!!!
+25/11/2021, 15:42:16 - INFO - Req!!!
+25/11/2021, 15:43:03 - INFO - Req!!!
+25/11/2021, 15:43:38 - INFO - Server is running on port: 3000
+25/11/2021, 15:43:47 - INFO - Server is running on port: 3000
+25/11/2021, 15:44:35 - INFO - Req!!!
+25/11/2021, 15:44:48 - INFO - Req!!!
+25/11/2021, 15:44:52 - INFO - Req!!!
+25/11/2021, 15:45:47 - INFO - Req!!!
+25/11/2021, 15:45:55 - INFO - Req!!!
+25/11/2021, 15:48:22 - INFO - Req!!!
+25/11/2021, 15:49:17 - INFO - Req!!!
+25/11/2021, 15:49:17 - INFO - Req!!!
+25/11/2021, 15:49:37 - INFO - Req!!!
+25/11/2021, 15:49:37 - INFO - Req!!!
+25/11/2021, 15:52:28 - INFO - Req!!!
+25/11/2021, 15:55:20 - INFO - Req!!!
+25/11/2021, 15:55:24 - INFO - Req!!!
+25/11/2021, 15:55:27 - INFO - Req!!!
+25/11/2021, 15:58:16 - INFO - Server is running on port: 3000
+25/11/2021, 15:58:20 - INFO - Req!!!
+25/11/2021, 15:58:26 - INFO - Req!!!
+25/11/2021, 15:59:12 - INFO - Req!!!
+25/11/2021, 15:59:12 - INFO - Req!!!
+25/11/2021, 16:01:23 - INFO - Server is running on port: 3000
+25/11/2021, 16:01:31 - INFO - Req!!!
+25/11/2021, 16:01:31 - INFO - Req!!!
+25/11/2021, 16:01:42 - ERROR - cannot insert toy | {"driver":true,"name":"MongoError","index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":""}}
+25/11/2021, 16:01:42 - ERROR - Failed to add toy | {"driver":true,"name":"MongoError","index":0,"code":11000,"keyPattern":{"_id":1},"keyValue":{"_id":""}}
+25/11/2021, 16:03:47 - INFO - Server is running on port: 3000
+25/11/2021, 16:04:24 - INFO - Req!!!
+25/11/2021, 16:04:31 - INFO - Req!!!
+25/11/2021, 16:04:46 - INFO - Req!!!
+25/11/2021, 16:05:27 - INFO - Req!!!
+25/11/2021, 16:05:27 - INFO - Req!!!
+25/11/2021, 16:05:40 - INFO - Req!!!
+25/11/2021, 16:05:48 - INFO - Req!!!
+25/11/2021, 16:15:58 - INFO - Server is running on port: 3000
+25/11/2021, 16:16:08 - INFO - Req!!!
+25/11/2021, 16:16:08 - INFO - Req!!!
+25/11/2021, 16:16:13 - INFO - Req!!!
+25/11/2021, 16:16:13 - INFO - Req!!!
+25/11/2021, 16:18:41 - INFO - Req!!!
+25/11/2021, 16:18:41 - INFO - Req!!!
+25/11/2021, 16:33:45 - INFO - Req!!!
+25/11/2021, 16:33:45 - INFO - Req!!!
+25/11/2021, 16:33:54 - INFO - Req!!!
+25/11/2021, 16:34:14 - INFO - Req!!!
+25/11/2021, 16:39:04 - INFO - Req!!!
+25/11/2021, 16:39:04 - INFO - Req!!!
+25/11/2021, 16:39:04 - INFO - Req!!!
+25/11/2021, 16:39:04 - INFO - Req!!!
+25/11/2021, 16:40:33 - INFO - Req!!!
+25/11/2021, 16:40:33 - INFO - Req!!!
+25/11/2021, 16:40:36 - INFO - Req!!!
+25/11/2021, 16:40:36 - INFO - Req!!!
+25/11/2021, 16:40:54 - INFO - Req!!!
+25/11/2021, 16:40:54 - INFO - Req!!!
+25/11/2021, 16:41:12 - INFO - Req!!!
+25/11/2021, 16:41:12 - INFO - Req!!!
+25/11/2021, 16:52:57 - INFO - Req!!!
+25/11/2021, 16:52:57 - INFO - Req!!!
+25/11/2021, 16:56:16 - INFO - Req!!!
+25/11/2021, 16:56:16 - INFO - Req!!!
+25/11/2021, 16:56:21 - INFO - Req!!!
+25/11/2021, 16:56:21 - INFO - Req!!!
+25/11/2021, 17:00:24 - INFO - Req!!!
+25/11/2021, 17:00:24 - INFO - Req!!!
+25/11/2021, 17:00:34 - INFO - Req!!!
+25/11/2021, 17:00:46 - INFO - Req!!!
+25/11/2021, 17:00:46 - INFO - Req!!!
+25/11/2021, 17:13:59 - INFO - Server is running on port: 3000
+25/11/2021, 17:24:26 - INFO - Req!!!
+25/11/2021, 17:24:26 - INFO - Req!!!
+25/11/2021, 17:27:34 - INFO - Req!!!
+25/11/2021, 17:27:34 - INFO - Req!!!
+25/11/2021, 17:27:38 - INFO - Req!!!
+25/11/2021, 17:27:38 - INFO - Req!!!
+25/11/2021, 17:27:46 - INFO - Req!!!
+25/11/2021, 17:27:56 - INFO - Req!!!
+25/11/2021, 18:16:12 - INFO - Req!!!
+25/11/2021, 18:16:20 - INFO - Req!!!
+25/11/2021, 18:16:26 - INFO - Req!!!
+25/11/2021, 18:59:28 - DEBUG - auth.service - signup with username: Muki, fullname: Muki bobo
+25/11/2021, 18:59:28 - DEBUG - auth.route - new account created: {"username":"Muki","password":"$2b$10$xMPJ1V5VHHTwoQdi2u2pDuVwQHOSWO64vzX/Hk4S787phmtzITdQC","fullname":"Muki bobo","score":0,"_id":"619fc0f0dd2308a3c49e9157"}
+25/11/2021, 18:59:28 - DEBUG - auth.service - login with username: Muki
+25/11/2021, 19:03:30 - INFO - Req!!!
+25/11/2021, 19:03:30 - INFO - Req!!!
+25/11/2021, 19:06:18 - INFO - Req!!!
+25/11/2021, 19:08:33 - INFO - Req!!!
+25/11/2021, 19:09:42 - INFO - Req!!!
+25/11/2021, 19:11:23 - INFO - Req!!!
+25/11/2021, 19:12:24 - INFO - Server is running on port: 3000
+25/11/2021, 19:13:50 - INFO - Req!!!
+25/11/2021, 19:14:39 - INFO - Req!!!
+25/11/2021, 19:14:44 - DEBUG - auth.service - signup with username: undefined, fullname: aaa
+25/11/2021, 19:14:44 - ERROR - Failed to signup fullname, username and password are required!
+25/11/2021, 19:15:42 - INFO - Server is running on port: 3000
+25/11/2021, 19:15:47 - ERROR - Failed to signup TypeError: Cannot destructure property 'username' of 'undefined' as it is undefined.
+25/11/2021, 19:16:42 - DEBUG - auth.service - signup with username: undefined, fullname: undefined
+25/11/2021, 19:16:42 - ERROR - Failed to signup fullname, username and password are required!
+25/11/2021, 19:18:33 - INFO - Req!!!
+25/11/2021, 19:18:37 - DEBUG - auth.service - signup with username: undefined, fullname: undefined
+25/11/2021, 19:18:37 - ERROR - Failed to signup fullname, username and password are required!
+25/11/2021, 19:19:25 - INFO - Server is running on port: 3000
+25/11/2021, 19:19:34 - INFO - Server is running on port: 3000
+25/11/2021, 19:19:37 - INFO - Req!!!
+25/11/2021, 19:19:43 - DEBUG - auth.service - signup with username: undefined, fullname: undefined
+25/11/2021, 19:19:43 - ERROR - Failed to signup fullname, username and password are required!
+25/11/2021, 19:20:48 - INFO - Server is running on port: 3000
+25/11/2021, 19:20:55 - INFO - Req!!!
+25/11/2021, 19:20:59 - ERROR - Failed to signup TypeError: Cannot destructure property 'username' of 'undefined' as it is undefined.
+25/11/2021, 19:22:32 - INFO - Req!!!
+25/11/2021, 19:22:35 - ERROR - Failed to signup TypeError: Cannot destructure property 'username' of 'undefined' as it is undefined.
+25/11/2021, 19:23:58 - ERROR - Failed to signup TypeError: Cannot destructure property 'username' of 'undefined' as it is undefined.
+25/11/2021, 19:25:54 - INFO - Req!!!
+25/11/2021, 19:26:16 - DEBUG - auth.service - signup with username: undefined, fullname: undefined
+25/11/2021, 19:26:16 - ERROR - Failed to signup fullname, username and password are required!
+25/11/2021, 19:26:37 - INFO - Server is running on port: 3000
+25/11/2021, 19:26:49 - DEBUG - auth.service - signup with username: 1, fullname: 1
+25/11/2021, 19:26:49 - DEBUG - auth.route - new account created: {"username":"1","password":"$2b$10$qpyYIq7GdScx7nqA4NM3j.9L.RtOYOX7stFBfwgvub3FDOfgpqI4u","fullname":"1","score":0,"_id":"619fc759df7044bce09786b7"}
+25/11/2021, 19:26:49 - DEBUG - auth.service - login with username: 1
+25/11/2021, 20:01:45 - INFO - Req!!!
+25/11/2021, 20:01:47 - INFO - Req!!!
+25/11/2021, 20:02:28 - DEBUG - auth.service - signup with username: Puki, fullname: Puki Shtuki
+25/11/2021, 20:02:28 - DEBUG - auth.route - new account created: {"username":"Puki","password":"$2b$10$s9iLc2bNmcqgXlPpuji3ouWXmZ3KLatPqQLKP8I6LYi9LDusIe0um","fullname":"Puki Shtuki","score":0,"_id":"619fcfb4df7044bce09786b8"}
+25/11/2021, 20:02:28 - DEBUG - auth.service - login with username: Puki
+25/11/2021, 20:23:48 - INFO - Req!!!
+25/11/2021, 20:27:07 - INFO - Req!!!
+25/11/2021, 20:34:35 - INFO - Server is running on port: 3000
+25/11/2021, 20:49:57 - INFO - Req!!!
+25/11/2021, 20:50:07 - DEBUG - auth.service - signup with username: a, fullname: a
+25/11/2021, 20:50:07 - DEBUG - auth.route - new account created: {"username":"a","password":"$2b$10$WEh7zA8/wGarZfkcmQwQ1u9BEMMsNJ0S9G6fVZC5fQLN3WYmuT2GK","fullname":"a","score":0,"_id":"619fdadf6262ffa730cf387c"}
+25/11/2021, 20:50:07 - DEBUG - auth.service - login with username: a
+25/11/2021, 20:50:09 - INFO - Req!!!
+25/11/2021, 20:50:13 - DEBUG - auth.service - login with username: a
+25/11/2021, 20:51:09 - INFO - Server is running on port: 3000
+25/11/2021, 20:51:14 - INFO - Req!!!
+25/11/2021, 20:51:28 - DEBUG - auth.service - login with username: a
+25/11/2021, 20:52:11 - INFO - Req!!!
+25/11/2021, 20:52:17 - DEBUG - auth.service - login with username: a
+25/11/2021, 20:52:45 - INFO - Server is running on port: 3000
+25/11/2021, 20:52:47 - INFO - Req!!!
+25/11/2021, 20:52:51 - DEBUG - auth.service - login with username: a
+25/11/2021, 20:53:20 - INFO - Server is running on port: 3000
+25/11/2021, 20:53:56 - INFO - Req!!!
+25/11/2021, 20:54:01 - DEBUG - auth.service - login with username: a
+25/11/2021, 20:56:53 - INFO - Req!!!
+25/11/2021, 21:01:47 - INFO - Req!!!
+25/11/2021, 21:01:50 - DEBUG - auth.service - login with username: a
+25/11/2021, 21:01:54 - INFO - Req!!!
+25/11/2021, 21:02:53 - INFO - Req!!!
+25/11/2021, 21:03:05 - INFO - Req!!!
+25/11/2021, 21:04:24 - DEBUG - auth.service - signup with username: b, fullname: b
+25/11/2021, 21:04:24 - DEBUG - auth.route - new account created: {"username":"b","password":"$2b$10$y/CJmP2FJAKKtngK/Cg9Rek013SQB9c4T2jxndn3bu3WwIEyQu366","fullname":"b","score":0,"_id":"619fde388f04cdcd1cfc3002"}
+25/11/2021, 21:04:24 - DEBUG - auth.service - login with username: b
+25/11/2021, 21:10:40 - INFO - Req!!!
+25/11/2021, 21:12:38 - INFO - Server is running on port: 3000
+25/11/2021, 21:12:49 - INFO - Server is running on port: 3000
+25/11/2021, 21:13:55 - INFO - Req!!!
+25/11/2021, 21:13:56 - INFO - Req!!!
+25/11/2021, 21:13:56 - INFO - Req!!!
+25/11/2021, 21:14:17 - DEBUG - auth.service - signup with username: c, fullname: c
+25/11/2021, 21:14:17 - DEBUG - auth.route - new account created: {"username":"c","password":"$2b$10$/asC0A5Jsfha68/5bH6Xc./hTuzvdCtDxicAyUgknhHpZBs/IDKOG","fullname":"c","_id":"619fe089a9c3e0d9748bc272"}
+25/11/2021, 21:14:17 - DEBUG - auth.service - login with username: c
+25/11/2021, 21:14:22 - INFO - Req!!!
+25/11/2021, 21:14:47 - INFO - Req!!!
+25/11/2021, 21:14:53 - DEBUG - auth.service - login with username: a
+25/11/2021, 21:14:57 - INFO - Req!!!
+25/11/2021, 21:15:59 - INFO - Req!!!
+25/11/2021, 21:18:57 - INFO - Req!!!
+25/11/2021, 21:20:47 - INFO - Server is running on port: 3000
+25/11/2021, 21:22:43 - INFO - Req!!!
+25/11/2021, 21:22:53 - INFO - Req!!!
+25/11/2021, 21:23:30 - DEBUG - auth.service - login with username: a
+25/11/2021, 21:23:41 - INFO - Req!!!
+25/11/2021, 21:25:05 - DEBUG - auth.service - login with username: Puki
+25/11/2021, 21:25:05 - ERROR - Failed to Login Invalid username or password
+25/11/2021, 21:25:08 - INFO - Req!!!
+25/11/2021, 21:25:20 - INFO - Req!!!
+25/11/2021, 21:25:28 - DEBUG - auth.service - login with username: Puki
+25/11/2021, 21:25:28 - ERROR - Failed to Login Invalid username or password
+25/11/2021, 21:25:40 - DEBUG - auth.service - login with username: Puki
+25/11/2021, 21:25:40 - ERROR - Failed to Login Invalid username or password
+25/11/2021, 21:25:47 - DEBUG - auth.service - login with username: Puki
+25/11/2021, 21:25:47 - ERROR - Failed to Login Invalid username or password
+25/11/2021, 21:26:02 - INFO - Req!!!
+25/11/2021, 21:26:29 - INFO - Req!!!
+25/11/2021, 21:26:32 - DEBUG - auth.service - login with username: a
+25/11/2021, 21:26:34 - INFO - Req!!!
+25/11/2021, 21:28:08 - INFO - Req!!!
+25/11/2021, 21:28:12 - DEBUG - auth.service - login with username: vfd
+25/11/2021, 21:28:12 - ERROR - Failed to Login Invalid username or password
+25/11/2021, 21:28:27 - INFO - Req!!!
+25/11/2021, 21:28:32 - DEBUG - auth.service - login with username: a
+25/11/2021, 21:28:36 - INFO - Req!!!
+25/11/2021, 21:32:16 - INFO - Req!!!
+25/11/2021, 21:32:24 - INFO - Req!!!
+25/11/2021, 21:32:28 - DEBUG - auth.service - login with username: a
+25/11/2021, 21:32:40 - INFO - Req!!!
+25/11/2021, 21:38:08 - INFO - Req!!!
+25/11/2021, 21:38:17 - INFO - Req!!!
+25/11/2021, 21:38:23 - DEBUG - auth.service - login with username: a
+25/11/2021, 21:39:37 - INFO - Req!!!
+25/11/2021, 21:40:53 - INFO - Req!!!
+25/11/2021, 21:42:06 - DEBUG - auth.service - login with username: a
+25/11/2021, 21:42:15 - INFO - Req!!!
+25/11/2021, 21:44:14 - INFO - Req!!!
+25/11/2021, 21:46:44 - INFO - Req!!!
+25/11/2021, 21:48:04 - INFO - Req!!!
+25/11/2021, 21:48:11 - DEBUG - auth.service - login with username: a
+25/11/2021, 21:48:18 - INFO - Req!!!
+25/11/2021, 22:02:27 - INFO - Req!!!
+25/11/2021, 22:02:33 - DEBUG - auth.service - login with username: a
+25/11/2021, 22:02:39 - INFO - Req!!!
+25/11/2021, 22:03:59 - INFO - Req!!!
+25/11/2021, 22:04:03 - DEBUG - auth.service - login with username: a
+25/11/2021, 22:04:05 - INFO - Req!!!
+25/11/2021, 22:05:21 - INFO - Req!!!
+25/11/2021, 22:05:29 - DEBUG - auth.service - login with username: a
+25/11/2021, 22:06:34 - INFO - Req!!!
+25/11/2021, 22:06:38 - DEBUG - auth.service - login with username: a
+25/11/2021, 22:06:47 - INFO - Req!!!
+25/11/2021, 22:06:50 - INFO - Req!!!
+25/11/2021, 22:06:53 - DEBUG - auth.service - login with username: a
+25/11/2021, 22:08:48 - INFO - Req!!!
+25/11/2021, 22:08:53 - INFO - Req!!!
+25/11/2021, 22:13:29 - INFO - Req!!!
+25/11/2021, 22:13:49 - DEBUG - auth.service - login with username: A
+25/11/2021, 22:13:49 - ERROR - Failed to Login Invalid username or password
+25/11/2021, 22:13:53 - DEBUG - auth.service - login with username: a
+25/11/2021, 22:13:56 - INFO - Req!!!
+25/11/2021, 22:14:00 - INFO - Req!!!
+25/11/2021, 22:14:32 - INFO - Req!!!
+25/11/2021, 22:15:04 - INFO - Req!!!
+25/11/2021, 22:15:32 - DEBUG - auth.service - login with username: a
+25/11/2021, 22:17:54 - INFO - Req!!!
+25/11/2021, 22:17:58 - DEBUG - auth.service - login with username: a
+25/11/2021, 22:18:07 - INFO - Req!!!
+25/11/2021, 22:18:33 - DEBUG - auth.service - login with username: a
+25/11/2021, 22:18:41 - INFO - Req!!!
+25/11/2021, 22:18:45 - INFO - Req!!!
+25/11/2021, 22:21:50 - INFO - Req!!!
+25/11/2021, 22:22:29 - INFO - Req!!!
+25/11/2021, 22:22:32 - DEBUG - auth.service - login with username: a
+25/11/2021, 22:22:40 - INFO - Req!!!
+25/11/2021, 22:22:45 - INFO - Req!!!
+25/11/2021, 22:22:46 - INFO - Req!!!
+25/11/2021, 22:22:46 - INFO - Req!!!
+25/11/2021, 22:22:47 - INFO - Req!!!
+25/11/2021, 22:22:59 - DEBUG - auth.service - signup with username: d, fullname: d
+25/11/2021, 22:22:59 - DEBUG - auth.route - new account created: {"username":"d","password":"$2b$10$siXWXb4JjTPv5nFtQeBHOOomwxoM7YPS7PCMJc7d0acZmKh.13HY2","fullname":"d","isAdmin":false,"_id":"619ff0a33c514596cc048033"}
+25/11/2021, 22:22:59 - DEBUG - auth.service - login with username: d
+25/11/2021, 22:23:09 - INFO - Req!!!
+25/11/2021, 22:25:52 - INFO - Req!!!
+25/11/2021, 22:37:05 - INFO - Server is running on port: 3000
+25/11/2021, 22:37:15 - INFO - Req!!!
+25/11/2021, 22:37:24 - ERROR - Failed to remove toy | {}
+25/11/2021, 22:37:48 - INFO - Req!!!
+25/11/2021, 22:37:48 - INFO - Req!!!
+25/11/2021, 22:37:53 - DEBUG - auth.service - login with username: a
+25/11/2021, 22:37:58 - INFO - Req!!!
+25/11/2021, 22:38:02 - ERROR - Failed to remove toy | {}
+25/11/2021, 22:38:40 - INFO - Req!!!
+25/11/2021, 22:38:40 - INFO - Req!!!
+25/11/2021, 22:39:08 - INFO - Server is running on port: 3000
+25/11/2021, 22:39:38 - INFO - Req!!!
+25/11/2021, 22:39:38 - INFO - Req!!!
+25/11/2021, 22:39:53 - INFO - Req!!!
+25/11/2021, 22:40:08 - INFO - Req!!!
+25/11/2021, 22:40:20 - INFO - Req!!!
+25/11/2021, 22:40:20 - INFO - Req!!!
+25/11/2021, 22:40:36 - INFO - Req!!!
+25/11/2021, 22:40:36 - INFO - Req!!!
+25/11/2021, 22:41:07 - INFO - Server is running on port: 3000
+25/11/2021, 22:41:16 - INFO - Req!!!
+25/11/2021, 22:41:16 - INFO - Req!!!
+25/11/2021, 22:41:26 - INFO - Req!!!
+25/11/2021, 22:54:25 - INFO - Req!!!
+25/11/2021, 22:54:25 - INFO - Req!!!
+25/11/2021, 22:56:11 - INFO - Server is running on port: 3000
+25/11/2021, 22:59:03 - INFO - Server is running on port: 3000
+25/11/2021, 22:59:15 - INFO - Req!!!
+25/11/2021, 22:59:17 - INFO - Req!!!
+25/11/2021, 22:59:27 - INFO - Req!!!
+25/11/2021, 22:59:27 - INFO - Req!!!
+25/11/2021, 23:01:36 - INFO - Req!!!
+25/11/2021, 23:01:42 - INFO - Req!!!
+25/11/2021, 23:01:42 - INFO - Req!!!
+25/11/2021, 23:02:27 - INFO - Server is running on port: 3000
+25/11/2021, 23:02:39 - INFO - Req!!!
+25/11/2021, 23:02:42 - DEBUG - auth.service - login with username: b
+25/11/2021, 23:02:47 - INFO - Req!!!
+25/11/2021, 23:02:52 - INFO - Req!!!
+25/11/2021, 23:02:52 - INFO - Req!!!
+25/11/2021, 23:03:13 - INFO - Req!!!
+25/11/2021, 23:03:13 - INFO - Req!!!
+25/11/2021, 23:05:27 - INFO - Server is running on port: 3000
+25/11/2021, 23:06:35 - INFO - Server is running on port: 3000
+25/11/2021, 23:06:47 - INFO - Req!!!
+25/11/2021, 23:06:47 - INFO - Req!!!
+25/11/2021, 23:06:55 - DEBUG - auth.service - login with username: a
+25/11/2021, 23:08:27 - INFO - Server is running on port: 3000
+25/11/2021, 23:08:35 - INFO - Req!!!
+25/11/2021, 23:08:52 - INFO - Server is running on port: 3000
+25/11/2021, 23:08:55 - INFO - Server is running on port: 3000
+25/11/2021, 23:08:58 - INFO - Server is running on port: 3000
+25/11/2021, 23:09:05 - INFO - Req!!!
+25/11/2021, 23:09:05 - INFO - Req!!!
+25/11/2021, 23:09:10 - DEBUG - auth.service - login with username: a
+25/11/2021, 23:09:18 - INFO - Req!!!
+25/11/2021, 23:10:51 - INFO - Server is running on port: 3000
+25/11/2021, 23:10:54 - INFO - Server is running on port: 3000
+25/11/2021, 23:10:59 - INFO - Req!!!
+25/11/2021, 23:10:59 - INFO - Req!!!
+25/11/2021, 23:12:04 - INFO - Server is running on port: 3000
+25/11/2021, 23:12:08 - INFO - Req!!!
+25/11/2021, 23:12:08 - INFO - Req!!!
+25/11/2021, 23:12:24 - INFO - Server is running on port: 3000
+25/11/2021, 23:14:58 - INFO - Server is running on port: 3000
+25/11/2021, 23:15:03 - INFO - Req!!!
+25/11/2021, 23:15:03 - INFO - Req!!!
+25/11/2021, 23:15:16 - INFO - Server is running on port: 3000
+25/11/2021, 23:15:22 - INFO - Req!!!
+25/11/2021, 23:15:22 - INFO - Req!!!
+25/11/2021, 23:15:57 - INFO - Server is running on port: 3000
+25/11/2021, 23:16:00 - INFO - Req!!!
+25/11/2021, 23:16:00 - INFO - Req!!!
+25/11/2021, 23:16:58 - INFO - Req!!!
+25/11/2021, 23:16:59 - INFO - Req!!!
+25/11/2021, 23:17:19 - INFO - Server is running on port: 3000
+25/11/2021, 23:17:23 - INFO - Req!!!
+25/11/2021, 23:17:23 - INFO - Req!!!
+25/11/2021, 23:17:31 - INFO - Req!!!
+25/11/2021, 23:17:31 - INFO - Req!!!
+25/11/2021, 23:17:44 - DEBUG - auth.service - login with username: a
+25/11/2021, 23:17:51 - INFO - Req!!!
+25/11/2021, 23:19:16 - INFO - Server is running on port: 3000
+25/11/2021, 23:19:21 - INFO - Req!!!
+25/11/2021, 23:19:21 - INFO - Req!!!
+25/11/2021, 23:19:33 - DEBUG - auth.service - signup with username: e, fullname: e
+25/11/2021, 23:19:33 - DEBUG - auth.route - new account created: {"username":"e","password":"$2b$10$.nnl18W.NstLN5p5jEqm1.bbd6orSRhx4J.8WwA5ZAzhUTfJwz8rC","fullname":"e","isAdmin":false,"_id":"619ffde5ca01c435a47a0b06"}
+25/11/2021, 23:19:33 - DEBUG - auth.service - login with username: e
+25/11/2021, 23:20:15 - INFO - Req!!!
+25/11/2021, 23:23:00 - INFO - Server is running on port: 3000
+25/11/2021, 23:25:52 - INFO - Server is running on port: 3000
+25/11/2021, 23:25:59 - INFO - Req!!!
+25/11/2021, 23:25:59 - INFO - Req!!!
+25/11/2021, 23:26:29 - INFO - Server is running on port: 3000
+25/11/2021, 23:38:19 - INFO - Req!!!
+25/11/2021, 23:38:29 - INFO - Req!!!
+25/11/2021, 23:39:35 - INFO - Server is running on port: 3000
+25/11/2021, 23:39:43 - INFO - Req!!!
+25/11/2021, 23:43:39 - INFO - Server is running on port: 3000
+25/11/2021, 23:43:48 - INFO - Req!!!
+25/11/2021, 23:43:48 - INFO - Req!!!
+25/11/2021, 23:43:53 - DEBUG - auth.service - login with username: a
+25/11/2021, 23:44:02 - INFO - Req!!!
+27/11/2021, 9:39:08 - INFO - Server is running on port: 3000
+27/11/2021, 9:40:17 - INFO - Req!!!
+27/11/2021, 9:40:20 - INFO - Req!!!
+27/11/2021, 9:40:25 - INFO - Req!!!
+27/11/2021, 9:40:25 - INFO - Req!!!
+27/11/2021, 9:42:42 - INFO - Req!!!
+27/11/2021, 9:43:43 - INFO - Server is running on port: 3000
+27/11/2021, 9:43:51 - INFO - Server is running on port: 3000
+27/11/2021, 9:43:55 - INFO - Req!!!
+27/11/2021, 9:43:55 - INFO - Req!!!
+27/11/2021, 9:44:09 - INFO - Req!!!
+27/11/2021, 9:44:13 - INFO - Req!!!
+27/11/2021, 9:44:13 - INFO - Req!!!
+27/11/2021, 9:44:33 - INFO - Req!!!
+27/11/2021, 9:44:33 - INFO - Req!!!
+27/11/2021, 9:44:43 - DEBUG - auth.service - login with username: a
+27/11/2021, 9:44:52 - INFO - Req!!!
+27/11/2021, 9:45:51 - INFO - Server is running on port: 3000
+27/11/2021, 9:47:48 - INFO - Req!!!
+27/11/2021, 9:47:48 - INFO - Req!!!
+27/11/2021, 9:48:04 - INFO - Req!!!
+27/11/2021, 9:48:04 - INFO - Req!!!
+27/11/2021, 9:48:28 - INFO - Req!!!
+27/11/2021, 9:48:44 - INFO - Req!!!
+27/11/2021, 9:48:45 - INFO - Req!!!
+27/11/2021, 9:48:50 - DEBUG - auth.service - login with username: b
+27/11/2021, 9:48:56 - INFO - Req!!!
+27/11/2021, 9:48:58 - WARN - b Attempt to perform admin action
+27/11/2021, 9:49:09 - INFO - Req!!!
+27/11/2021, 9:49:09 - INFO - Req!!!
+27/11/2021, 9:49:54 - INFO - Req!!!
+27/11/2021, 9:49:54 - INFO - Req!!!
+27/11/2021, 9:50:03 - INFO - Req!!!
+27/11/2021, 9:50:03 - INFO - Req!!!
+27/11/2021, 9:50:13 - WARN - b Attempt to perform admin action
+27/11/2021, 9:50:13 - INFO - Req!!!
+27/11/2021, 9:50:31 - WARN - b Attempt to perform admin action
+27/11/2021, 9:50:31 - INFO - Req!!!
+27/11/2021, 9:50:37 - INFO - Req!!!
+27/11/2021, 9:50:37 - INFO - Req!!!
+27/11/2021, 9:52:57 - INFO - Req!!!
+27/11/2021, 9:52:57 - INFO - Req!!!
+27/11/2021, 9:53:06 - DEBUG - auth.service - login with username: a
+27/11/2021, 9:53:14 - INFO - Req!!!
+27/11/2021, 9:53:19 - INFO - Req!!!
+27/11/2021, 9:53:25 - INFO - Req!!!
+27/11/2021, 9:53:25 - INFO - Req!!!
+27/11/2021, 9:53:35 - INFO - Req!!!
+27/11/2021, 9:53:40 - INFO - Req!!!
+27/11/2021, 9:53:40 - INFO - Req!!!
+27/11/2021, 9:54:00 - INFO - Req!!!
+27/11/2021, 9:54:00 - INFO - Req!!!
+27/11/2021, 9:54:25 - INFO - Req!!!
+27/11/2021, 9:54:25 - INFO - Req!!!
+27/11/2021, 9:54:28 - INFO - Req!!!
+27/11/2021, 9:54:28 - INFO - Req!!!
+27/11/2021, 9:54:35 - INFO - Req!!!
+27/11/2021, 9:54:35 - INFO - Req!!!
+27/11/2021, 9:54:59 - INFO - Server is running on port: 3000
+27/11/2021, 9:55:01 - DEBUG - auth.service - login with username: a
+27/11/2021, 9:55:13 - INFO - Req!!!
+27/11/2021, 9:55:32 - INFO - Req!!!
+27/11/2021, 9:55:32 - INFO - Req from: a
+27/11/2021, 9:56:10 - INFO - Req!!!
+27/11/2021, 9:56:10 - INFO - Req!!!
+27/11/2021, 9:56:22 - INFO - Req!!!
+27/11/2021, 9:56:22 - INFO - Req!!!
+27/11/2021, 9:56:40 - INFO - Req!!!
+27/11/2021, 9:56:40 - INFO - Req!!!
+27/11/2021, 10:03:51 - INFO - Req!!!
+27/11/2021, 10:03:51 - INFO - Req!!!
+27/11/2021, 10:05:06 - INFO - Server is running on port: 3000
+27/11/2021, 10:05:22 - INFO - Req!!!
+27/11/2021, 10:05:22 - INFO - Req!!!
+27/11/2021, 10:05:39 - DEBUG - auth.service - login with username: a
+27/11/2021, 10:07:27 - INFO - Req!!!
+27/11/2021, 10:07:36 - INFO - Req!!!
+27/11/2021, 10:07:42 - INFO - Req!!!
+27/11/2021, 10:07:42 - INFO - Req!!!
+27/11/2021, 10:07:57 - INFO - Req!!!
+27/11/2021, 10:08:04 - INFO - Req!!!
+27/11/2021, 10:08:09 - INFO - Req!!!
+27/11/2021, 10:08:09 - INFO - Req!!!
+27/11/2021, 10:08:28 - INFO - Req!!!
+27/11/2021, 10:08:28 - INFO - Req!!!
+27/11/2021, 10:08:37 - INFO - Req!!!
+27/11/2021, 10:08:37 - INFO - Req!!!
+27/11/2021, 10:08:54 - INFO - Server is running on port: 3000
+27/11/2021, 10:12:37 - INFO - Req!!!
+27/11/2021, 10:12:37 - INFO - Req!!!
+27/11/2021, 10:12:56 - DEBUG - auth.service - login with username: a
+27/11/2021, 10:13:00 - INFO - Req!!!
+27/11/2021, 10:13:42 - INFO - Req!!!
+27/11/2021, 10:13:42 - INFO - Req!!!
+27/11/2021, 10:15:33 - INFO - Req!!!
+27/11/2021, 10:15:37 - INFO - Req!!!
+27/11/2021, 10:15:37 - INFO - Req!!!
+27/11/2021, 10:16:06 - INFO - Req!!!
+27/11/2021, 10:16:06 - INFO - Req!!!
+27/11/2021, 10:16:13 - INFO - Req!!!
+27/11/2021, 10:16:20 - INFO - Req!!!
+27/11/2021, 10:16:20 - INFO - Req!!!
+27/11/2021, 10:16:30 - INFO - Req!!!
+27/11/2021, 10:16:35 - DEBUG - auth.service - login with username: b
+27/11/2021, 10:16:37 - INFO - Req!!!
+27/11/2021, 10:16:43 - WARN - b Attempt to perform admin action
+27/11/2021, 10:16:43 - INFO - Req!!!
+27/11/2021, 10:16:50 - WARN - b Attempt to perform admin action
+27/11/2021, 10:16:50 - INFO - Req!!!
+27/11/2021, 10:16:54 - WARN - b Attempt to perform admin action
+27/11/2021, 10:16:59 - INFO - Req!!!
+27/11/2021, 10:16:59 - INFO - Req!!!
+27/11/2021, 10:17:07 - WARN - b Attempt to perform admin action
+27/11/2021, 10:17:11 - INFO - Req!!!
+27/11/2021, 10:17:11 - INFO - Req!!!
+27/11/2021, 10:17:15 - WARN - b Attempt to perform admin action
+27/11/2021, 10:17:40 - INFO - Req!!!
+27/11/2021, 10:17:40 - INFO - Req!!!
+27/11/2021, 10:17:47 - DEBUG - auth.service - login with username: a
+27/11/2021, 10:17:48 - INFO - Req!!!
+27/11/2021, 10:17:53 - INFO - Req!!!
+27/11/2021, 10:17:58 - INFO - Req!!!
+27/11/2021, 10:18:06 - INFO - Req!!!
+27/11/2021, 10:18:16 - INFO - Req!!!
+27/11/2021, 10:18:16 - INFO - Req!!!
+27/11/2021, 10:25:23 - INFO - Req!!!
+27/11/2021, 10:25:23 - INFO - Req!!!
+27/11/2021, 10:28:03 - INFO - Req!!!
+27/11/2021, 10:28:05 - INFO - Req!!!
+27/11/2021, 10:28:11 - DEBUG - auth.service - login with username: b
+27/11/2021, 10:28:13 - INFO - Req!!!
+27/11/2021, 10:28:36 - DEBUG - auth.service - login with username: a
+27/11/2021, 10:28:38 - INFO - Req!!!
+27/11/2021, 10:29:56 - INFO - Req!!!
+27/11/2021, 10:29:56 - INFO - Req!!!
+27/11/2021, 10:30:18 - DEBUG - auth.service - login with username: b
+27/11/2021, 10:30:53 - INFO - Req!!!
+27/11/2021, 10:30:56 - INFO - Req!!!
+27/11/2021, 10:30:59 - WARN - b Attempt to perform admin action
+27/11/2021, 10:31:05 - INFO - Req!!!
+27/11/2021, 10:31:05 - INFO - Req!!!
+27/11/2021, 10:31:09 - WARN - b Attempt to perform admin action
+27/11/2021, 10:31:16 - INFO - Req!!!
+27/11/2021, 10:31:16 - INFO - Req!!!
+27/11/2021, 10:32:02 - INFO - Req!!!
+27/11/2021, 10:32:02 - INFO - Req!!!
+27/11/2021, 10:32:05 - WARN - b Attempt to perform admin action
+27/11/2021, 10:32:58 - INFO - Req!!!
+27/11/2021, 10:32:58 - INFO - Req!!!
+27/11/2021, 10:33:01 - WARN - b Attempt to perform admin action
+27/11/2021, 10:33:45 - INFO - Req!!!
+27/11/2021, 10:33:47 - WARN - b Attempt to perform admin action
+27/11/2021, 10:33:50 - INFO - Req!!!
+27/11/2021, 10:33:50 - INFO - Req!!!
+27/11/2021, 10:34:36 - INFO - Req!!!
+27/11/2021, 10:34:38 - WARN - b Attempt to perform admin action
+27/11/2021, 10:35:35 - INFO - Req!!!
+27/11/2021, 10:35:49 - INFO - Req!!!
+27/11/2021, 10:35:49 - INFO - Req!!!
+27/11/2021, 10:35:55 - WARN - b Attempt to perform admin action
+27/11/2021, 10:36:50 - INFO - Req!!!
+27/11/2021, 10:36:52 - WARN - b Attempt to perform admin action
+27/11/2021, 10:36:58 - INFO - Req!!!
+27/11/2021, 10:36:58 - INFO - Req!!!
+27/11/2021, 10:37:11 - INFO - Req!!!
+27/11/2021, 10:37:11 - INFO - Req!!!
+27/11/2021, 10:37:16 - DEBUG - auth.service - login with username: b
+27/11/2021, 10:37:18 - INFO - Req!!!
+27/11/2021, 10:37:23 - WARN - b Attempt to perform admin action
+27/11/2021, 10:37:23 - INFO - Req!!!
+27/11/2021, 10:37:32 - WARN - b Attempt to perform admin action
+27/11/2021, 10:37:36 - INFO - Req!!!
+27/11/2021, 10:37:36 - INFO - Req!!!
+27/11/2021, 10:37:42 - DEBUG - auth.service - login with username: a
+27/11/2021, 10:37:44 - INFO - Req!!!
+27/11/2021, 10:37:48 - INFO - Req!!!
+27/11/2021, 10:38:59 - INFO - Req!!!
+27/11/2021, 10:39:41 - INFO - Req!!!
+27/11/2021, 10:39:41 - INFO - Req!!!
+27/11/2021, 10:39:50 - INFO - Req!!!
+27/11/2021, 10:39:56 - INFO - Req!!!
+27/11/2021, 10:40:00 - INFO - Req!!!
+27/11/2021, 10:40:07 - INFO - Req!!!
+27/11/2021, 10:41:38 - INFO - Req!!!
+27/11/2021, 10:41:38 - INFO - Req!!!
+27/11/2021, 10:42:39 - INFO - Server is running on port: 3000
+27/11/2021, 10:42:49 - INFO - Server is running on port: 3000
+27/11/2021, 10:43:03 - INFO - Server is running on port: 3000
+27/11/2021, 10:44:41 - INFO - Server is running on port: 3000
+27/11/2021, 10:44:44 - INFO - Req!!!
+27/11/2021, 10:44:44 - INFO - Req!!!
+27/11/2021, 10:44:49 - INFO - Req!!!
+27/11/2021, 10:44:57 - INFO - Req!!!
+27/11/2021, 10:45:00 - INFO - Req!!!
+27/11/2021, 10:45:00 - INFO - Req!!!
+27/11/2021, 10:45:13 - INFO - Req!!!
+27/11/2021, 10:45:35 - INFO - Req!!!
+27/11/2021, 10:45:35 - INFO - Req!!!
+27/11/2021, 10:45:44 - DEBUG - auth.service - login with username: a
+27/11/2021, 10:45:50 - INFO - Req!!!
+27/11/2021, 10:45:56 - INFO - Req!!!
+27/11/2021, 10:46:01 - INFO - Req!!!
+27/11/2021, 10:46:01 - INFO - Req!!!
+27/11/2021, 10:46:37 - INFO - Server is running on port: 3000
+27/11/2021, 10:46:46 - INFO - Req!!!
+27/11/2021, 10:46:46 - INFO - Req!!!
+27/11/2021, 10:46:52 - DEBUG - auth.service - login with username: a
+27/11/2021, 10:46:58 - INFO - Req!!!
+27/11/2021, 10:49:56 - INFO - Req!!!
+27/11/2021, 10:49:56 - INFO - Req!!!
+27/11/2021, 10:50:07 - INFO - Req!!!
+27/11/2021, 10:50:12 - INFO - Req!!!
+27/11/2021, 10:51:43 - INFO - Req!!!
+27/11/2021, 10:51:43 - INFO - Req!!!
+27/11/2021, 10:52:06 - INFO - Req!!!
+27/11/2021, 10:52:06 - INFO - Req!!!
+27/11/2021, 10:52:26 - INFO - Req!!!
+27/11/2021, 10:52:36 - INFO - Req!!!
+27/11/2021, 10:52:39 - INFO - Req!!!
+27/11/2021, 10:52:39 - INFO - Req!!!
+27/11/2021, 10:52:47 - INFO - Req!!!
+27/11/2021, 10:52:53 - INFO - Req!!!
+27/11/2021, 10:53:01 - INFO - Req!!!
+27/11/2021, 10:53:01 - INFO - Req!!!
+27/11/2021, 10:53:10 - DEBUG - auth.service - login with username: b
+27/11/2021, 10:53:11 - INFO - Req!!!
+27/11/2021, 10:53:17 - INFO - Req!!!
+27/11/2021, 10:53:17 - INFO - Req!!!
+27/11/2021, 10:53:31 - WARN - b Attempt to perform admin action
+27/11/2021, 10:53:31 - INFO - Req!!!
+27/11/2021, 10:53:35 - WARN - b Attempt to perform admin action
+27/11/2021, 10:53:39 - INFO - Req!!!
+27/11/2021, 10:53:39 - INFO - Req!!!
+27/11/2021, 10:58:00 - INFO - Req!!!
+27/11/2021, 10:58:10 - INFO - Req!!!
+27/11/2021, 10:58:10 - INFO - Req!!!
+27/11/2021, 11:00:55 - WARN - b Attempt to perform admin action
+27/11/2021, 11:00:56 - INFO - Req!!!
+27/11/2021, 11:11:02 - INFO - Server is running on port: 3000
+27/11/2021, 11:11:36 - INFO - Server is running on port: 3000
+27/11/2021, 11:11:39 - INFO - Req!!!
+27/11/2021, 11:11:39 - INFO - Req!!!
+27/11/2021, 11:11:44 - INFO - Req!!!
+27/11/2021, 11:11:47 - INFO - Req!!!
+27/11/2021, 11:11:49 - INFO - Req!!!
+27/11/2021, 11:11:51 - INFO - Req!!!
+27/11/2021, 11:14:55 - INFO - Req!!!
+27/11/2021, 11:15:00 - INFO - Req!!!
+27/11/2021, 11:17:46 - INFO - Req!!!
+27/11/2021, 11:17:49 - INFO - Req!!!
+27/11/2021, 11:17:49 - INFO - Req!!!
+27/11/2021, 11:17:56 - DEBUG - auth.service - login with username: a
+27/11/2021, 11:17:57 - INFO - Req!!!
+27/11/2021, 11:18:05 - INFO - Req!!!
+27/11/2021, 11:18:13 - INFO - Req!!!
+27/11/2021, 11:37:15 - INFO - Server is running on port: 3000
+27/11/2021, 11:37:23 - INFO - Req!!!
+27/11/2021, 11:37:24 - INFO - Req!!!
+27/11/2021, 11:37:24 - INFO - Req!!!
+27/11/2021, 11:37:34 - INFO - Req!!!
+27/11/2021, 11:37:37 - INFO - Req!!!
+27/11/2021, 11:37:47 - INFO - Req!!!
+27/11/2021, 11:37:52 - INFO - Req!!!
+27/11/2021, 11:37:59 - INFO - Req!!!
+27/11/2021, 11:39:02 - INFO - Req!!!
+27/11/2021, 11:39:04 - INFO - Req!!!
+27/11/2021, 11:39:04 - INFO - Req!!!
+27/11/2021, 11:39:08 - INFO - Req!!!
+27/11/2021, 11:39:12 - INFO - Req!!!
+27/11/2021, 11:40:28 - INFO - Server is running on port: 3000
+27/11/2021, 11:40:34 - INFO - Req!!!
+27/11/2021, 11:40:37 - INFO - Req!!!
+27/11/2021, 11:40:37 - INFO - Req!!!
+27/11/2021, 11:40:43 - INFO - Req!!!
+27/11/2021, 11:40:53 - INFO - Req!!!
+27/11/2021, 11:41:38 - INFO - Server is running on port: 3000
+27/11/2021, 11:41:41 - INFO - Req!!!
+27/11/2021, 11:41:41 - INFO - Req!!!
+27/11/2021, 11:41:45 - INFO - Req!!!
+27/11/2021, 11:41:59 - INFO - Server is running on port: 3000
+27/11/2021, 11:42:51 - INFO - Server is running on port: 3000
+27/11/2021, 11:42:55 - INFO - Req!!!
+27/11/2021, 11:42:55 - INFO - Req!!!
+27/11/2021, 11:42:59 - INFO - Req!!!
+27/11/2021, 11:43:07 - INFO - Req!!!
+27/11/2021, 11:43:31 - INFO - Req!!!
+27/11/2021, 11:45:36 - INFO - Req!!!
+27/11/2021, 11:45:36 - INFO - Req!!!
+27/11/2021, 11:45:40 - INFO - Req!!!
+27/11/2021, 11:45:44 - INFO - Req!!!
+27/11/2021, 11:46:31 - INFO - Req!!!
+27/11/2021, 12:16:41 - INFO - Server is running on port: 3000
+27/11/2021, 12:16:55 - INFO - Req!!!
+27/11/2021, 12:16:55 - ERROR - cannot find toys | {}
+27/11/2021, 12:16:55 - ERROR - Failed to get toys | {}
+27/11/2021, 12:16:55 - INFO - Req!!!
+27/11/2021, 12:16:55 - ERROR - cannot find toys | {}
+27/11/2021, 12:16:55 - ERROR - Failed to get toys | {}
+27/11/2021, 12:17:15 - INFO - Server is running on port: 3000
+27/11/2021, 12:17:34 - INFO - Server is running on port: 3000
+27/11/2021, 12:17:39 - INFO - Req!!!
+27/11/2021, 12:17:39 - INFO - Req!!!
+27/11/2021, 12:17:54 - INFO - Server is running on port: 3000
+27/11/2021, 12:17:57 - INFO - Req!!!
+27/11/2021, 12:17:57 - INFO - Req!!!
+27/11/2021, 12:18:04 - INFO - Req!!!
+27/11/2021, 12:18:08 - INFO - Req!!!
+27/11/2021, 12:18:14 - INFO - Req!!!
+27/11/2021, 12:18:32 - INFO - Req!!!
+27/11/2021, 12:18:32 - INFO - Req!!!
+27/11/2021, 12:18:36 - INFO - Req!!!
+27/11/2021, 12:19:15 - INFO - Server is running on port: 3000
+27/11/2021, 12:19:20 - INFO - Req!!!
+27/11/2021, 12:19:20 - INFO - Req!!!
+27/11/2021, 12:19:24 - INFO - Req!!!
+27/11/2021, 12:19:34 - INFO - Req!!!
+27/11/2021, 12:19:46 - INFO - Req!!!
+27/11/2021, 12:20:28 - INFO - Server is running on port: 3000
+27/11/2021, 12:20:32 - INFO - Req!!!
+27/11/2021, 12:20:32 - INFO - Req!!!
+27/11/2021, 12:20:36 - INFO - Req!!!
+27/11/2021, 12:21:30 - INFO - Req!!!
+27/11/2021, 12:21:31 - INFO - Req!!!
+27/11/2021, 12:22:49 - INFO - Req!!!
+27/11/2021, 12:22:49 - INFO - Req!!!
+27/11/2021, 12:22:55 - INFO - Req!!!
+27/11/2021, 12:22:59 - INFO - Req!!!
+27/11/2021, 12:23:07 - INFO - Req!!!
+27/11/2021, 12:23:51 - INFO - Server is running on port: 3000
+27/11/2021, 12:23:54 - INFO - Req!!!
+27/11/2021, 12:23:54 - INFO - Req!!!
+27/11/2021, 12:24:01 - INFO - Req!!!
+27/11/2021, 12:24:05 - INFO - Req!!!
+27/11/2021, 12:24:41 - INFO - Server is running on port: 3000
+27/11/2021, 12:24:45 - INFO - Req!!!
+27/11/2021, 12:24:45 - INFO - Req!!!
+27/11/2021, 12:24:51 - INFO - Req!!!
+27/11/2021, 12:24:56 - INFO - Req!!!
+27/11/2021, 12:24:59 - INFO - Req!!!
+27/11/2021, 12:27:16 - INFO - Server is running on port: 3000
+27/11/2021, 12:27:24 - INFO - Req!!!
+27/11/2021, 12:27:30 - INFO - Req!!!
+27/11/2021, 12:29:19 - INFO - Req!!!
+27/11/2021, 12:29:19 - INFO - Req!!!
+27/11/2021, 12:29:25 - INFO - Req!!!
+27/11/2021, 12:31:10 - INFO - Server is running on port: 3000
+27/11/2021, 12:31:17 - INFO - Req!!!
+27/11/2021, 12:31:17 - INFO - Req!!!
+27/11/2021, 12:31:22 - INFO - Req!!!
+27/11/2021, 12:31:22 - ERROR - cannot find toys | {"ok":0,"code":2,"codeName":"BadValue","name":"MongoError"}
+27/11/2021, 12:31:22 - ERROR - Failed to get toys | {"ok":0,"code":2,"codeName":"BadValue","name":"MongoError"}
+27/11/2021, 12:32:35 - INFO - Server is running on port: 3000
+27/11/2021, 12:32:56 - INFO - Req!!!
+27/11/2021, 12:32:56 - INFO - Req!!!
+27/11/2021, 12:33:00 - INFO - Req!!!
+27/11/2021, 12:33:13 - INFO - Req!!!
+27/11/2021, 12:33:17 - INFO - Req!!!
+27/11/2021, 12:33:21 - INFO - Req!!!
+27/11/2021, 12:33:23 - INFO - Req!!!
+27/11/2021, 12:33:26 - INFO - Req!!!
+27/11/2021, 12:33:30 - INFO - Req!!!
+27/11/2021, 12:33:32 - INFO - Req!!!
+27/11/2021, 12:33:40 - INFO - Req!!!
+27/11/2021, 12:33:41 - INFO - Req!!!
+27/11/2021, 12:45:47 - INFO - Server is running on port: 3000
+27/11/2021, 12:45:51 - INFO - Req!!!
+27/11/2021, 12:45:51 - INFO - Req!!!
+27/11/2021, 12:45:55 - INFO - Req!!!
+27/11/2021, 12:47:09 - INFO - Req!!!
+27/11/2021, 12:47:26 - INFO - Req!!!
+27/11/2021, 12:47:27 - INFO - Req!!!
+27/11/2021, 12:47:46 - INFO - Req!!!
+27/11/2021, 12:47:46 - INFO - Req!!!
+27/11/2021, 12:47:53 - DEBUG - auth.service - login with username: a
+27/11/2021, 12:47:54 - INFO - Req!!!
+27/11/2021, 12:48:02 - INFO - Req!!!
+27/11/2021, 12:48:09 - INFO - Req!!!
+27/11/2021, 12:56:19 - INFO - Server is running on port: 3000
+27/11/2021, 12:56:27 - INFO - Server is running on port: 3000
+27/11/2021, 12:56:46 - INFO - Server is running on port: 3000
+27/11/2021, 12:56:50 - INFO - Req!!!
+27/11/2021, 12:56:50 - INFO - Req!!!
+27/11/2021, 12:56:57 - INFO - Req!!!
+27/11/2021, 12:56:57 - INFO - Req!!!
+27/11/2021, 12:57:01 - DEBUG - auth.service - login with username: a
+27/11/2021, 12:57:02 - INFO - Req!!!
+27/11/2021, 12:57:12 - INFO - Req!!!
+27/11/2021, 12:57:30 - INFO - Req!!!
+27/11/2021, 12:58:05 - INFO - Req!!!
+27/11/2021, 12:58:05 - INFO - Req!!!
+27/11/2021, 12:58:15 - INFO - Req!!!
+27/11/2021, 13:04:52 - INFO - Req!!!
+27/11/2021, 13:04:52 - INFO - Req!!!
+27/11/2021, 13:05:04 - INFO - Server is running on port: 3000
+27/11/2021, 13:05:07 - INFO - Req!!!
+27/11/2021, 13:05:07 - INFO - Req!!!
+27/11/2021, 13:07:37 - INFO - Req!!!
+27/11/2021, 13:07:37 - INFO - Req!!!
+27/11/2021, 13:07:56 - INFO - Server is running on port: 3000
+27/11/2021, 13:07:59 - INFO - Req!!!
+27/11/2021, 13:07:59 - INFO - Req!!!
+27/11/2021, 13:08:14 - INFO - Req!!!
+27/11/2021, 13:08:20 - INFO - Req!!!
+27/11/2021, 13:13:25 - INFO - Server is running on port: 3000
+27/11/2021, 13:13:34 - INFO - Req!!!
+27/11/2021, 13:13:34 - INFO - Req!!!
+27/11/2021, 13:13:43 - INFO - Req!!!
+27/11/2021, 13:13:43 - INFO - Req!!!
+27/11/2021, 13:13:49 - DEBUG - auth.service - login with username: a
+27/11/2021, 13:13:50 - INFO - Req!!!
+27/11/2021, 13:13:59 - INFO - Req!!!
+27/11/2021, 13:15:20 - INFO - Req!!!
+27/11/2021, 13:15:21 - INFO - Req!!!
+27/11/2021, 13:16:05 - INFO - Server is running on port: 3000
+27/11/2021, 13:16:14 - INFO - Server is running on port: 3000
+27/11/2021, 13:16:17 - INFO - Req!!!
+27/11/2021, 13:16:17 - INFO - Req!!!
+27/11/2021, 13:17:16 - INFO - Req!!!
+27/11/2021, 13:17:16 - INFO - Req!!!
+27/11/2021, 13:18:00 - INFO - Server is running on port: 3000
+27/11/2021, 13:18:21 - INFO - Server is running on port: 3000
+27/11/2021, 13:18:26 - INFO - Server is running on port: 3000
+27/11/2021, 13:18:29 - INFO - Req!!!
+27/11/2021, 13:18:29 - INFO - Req!!!
+27/11/2021, 13:18:42 - INFO - Req!!!
+27/11/2021, 13:22:12 - INFO - Req!!!
+27/11/2021, 13:22:12 - INFO - Req!!!
+27/11/2021, 13:23:07 - INFO - Server is running on port: 3000
+27/11/2021, 13:26:30 - INFO - Server is running on port: 3000
+27/11/2021, 13:26:36 - INFO - Req!!!
+27/11/2021, 13:26:36 - INFO - Req!!!
+27/11/2021, 13:26:36 - ERROR - cannot find toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 13:26:36 - ERROR - Failed to get toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 13:26:36 - ERROR - cannot find toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 13:26:36 - ERROR - Failed to get toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 13:28:17 - INFO - Server is running on port: 3000
+27/11/2021, 13:28:28 - INFO - Req!!!
+27/11/2021, 13:28:28 - INFO - Req!!!
+27/11/2021, 13:28:28 - ERROR - cannot find toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 13:28:28 - ERROR - Failed to get toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 13:28:28 - ERROR - cannot find toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 13:28:28 - ERROR - Failed to get toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 13:30:51 - INFO - Server is running on port: 3000
+27/11/2021, 13:30:59 - INFO - Req!!!
+27/11/2021, 13:30:59 - INFO - Req!!!
+27/11/2021, 13:30:59 - ERROR - cannot find toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 13:30:59 - ERROR - Failed to get toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 13:30:59 - ERROR - cannot find toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 13:30:59 - ERROR - Failed to get toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 13:31:28 - INFO - Server is running on port: 3000
+27/11/2021, 13:31:31 - INFO - Req!!!
+27/11/2021, 13:31:31 - INFO - Req!!!
+27/11/2021, 13:31:44 - DEBUG - auth.service - login with username: a
+27/11/2021, 13:31:46 - INFO - Req!!!
+27/11/2021, 13:31:59 - INFO - Server is running on port: 3000
+27/11/2021, 13:32:02 - INFO - Req!!!
+27/11/2021, 13:32:02 - INFO - Req!!!
+27/11/2021, 13:32:02 - ERROR - cannot find toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 13:32:02 - ERROR - Failed to get toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 13:32:02 - ERROR - cannot find toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 13:32:02 - ERROR - Failed to get toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 13:32:28 - INFO - Server is running on port: 3000
+27/11/2021, 13:32:38 - INFO - Server is running on port: 3000
+27/11/2021, 13:32:46 - INFO - Server is running on port: 3000
+27/11/2021, 13:32:49 - INFO - Req!!!
+27/11/2021, 13:32:49 - INFO - Req!!!
+27/11/2021, 13:33:11 - INFO - Req!!!
+27/11/2021, 13:33:43 - INFO - Server is running on port: 3000
+27/11/2021, 13:33:45 - INFO - Req!!!
+27/11/2021, 13:33:45 - INFO - Req!!!
+27/11/2021, 13:33:45 - ERROR - cannot find toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 13:33:45 - ERROR - Failed to get toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 13:33:45 - ERROR - cannot find toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 13:33:45 - ERROR - Failed to get toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 13:34:00 - INFO - Req!!!
+27/11/2021, 13:34:00 - INFO - Req!!!
+27/11/2021, 13:34:17 - INFO - Req!!!
+27/11/2021, 13:34:28 - INFO - Req!!!
+27/11/2021, 13:34:35 - INFO - Req!!!
+27/11/2021, 13:37:37 - INFO - Server is running on port: 3000
+27/11/2021, 13:37:50 - INFO - Server is running on port: 3000
+27/11/2021, 13:41:52 - INFO - Server is running on port: 3000
+27/11/2021, 13:41:56 - INFO - Req!!!
+27/11/2021, 13:41:56 - INFO - Req!!!
+27/11/2021, 13:42:03 - INFO - Req!!!
+27/11/2021, 13:42:14 - INFO - Req!!!
+27/11/2021, 13:42:20 - INFO - Server is running on port: 3000
+27/11/2021, 13:42:40 - INFO - Server is running on port: 3000
+27/11/2021, 13:42:42 - INFO - Req!!!
+27/11/2021, 13:42:42 - INFO - Req!!!
+27/11/2021, 13:42:51 - INFO - Req!!!
+27/11/2021, 13:44:57 - INFO - Server is running on port: 3000
+27/11/2021, 13:45:00 - INFO - Req!!!
+27/11/2021, 13:45:00 - INFO - Req!!!
+27/11/2021, 13:45:04 - INFO - Req!!!
+27/11/2021, 13:45:19 - INFO - Server is running on port: 3000
+27/11/2021, 13:45:24 - INFO - Req!!!
+27/11/2021, 13:45:24 - INFO - Req!!!
+27/11/2021, 13:45:27 - INFO - Req!!!
+27/11/2021, 13:45:31 - INFO - Req!!!
+27/11/2021, 13:45:40 - INFO - Req!!!
+27/11/2021, 13:50:39 - INFO - Req!!!
+27/11/2021, 13:50:43 - INFO - Req!!!
+27/11/2021, 13:50:48 - INFO - Req!!!
+27/11/2021, 13:52:10 - INFO - Req!!!
+27/11/2021, 13:52:15 - INFO - Req!!!
+27/11/2021, 13:52:15 - INFO - Req!!!
+27/11/2021, 13:52:59 - INFO - Req!!!
+27/11/2021, 13:52:59 - INFO - Req!!!
+27/11/2021, 13:53:13 - INFO - Req!!!
+27/11/2021, 13:53:24 - DEBUG - auth.service - login with username: a
+27/11/2021, 13:53:25 - INFO - Req!!!
+27/11/2021, 13:53:28 - INFO - Req!!!
+27/11/2021, 13:53:28 - INFO - Req!!!
+27/11/2021, 13:53:38 - INFO - Req!!!
+27/11/2021, 13:53:44 - INFO - Req!!!
+27/11/2021, 13:53:44 - INFO - Req!!!
+27/11/2021, 13:53:49 - INFO - Req!!!
+27/11/2021, 13:53:56 - INFO - Req!!!
+27/11/2021, 13:53:56 - INFO - Req!!!
+27/11/2021, 13:54:57 - INFO - Req!!!
+27/11/2021, 13:54:57 - INFO - Req!!!
+27/11/2021, 13:55:07 - DEBUG - auth.service - login with username: b
+27/11/2021, 13:55:09 - INFO - Req!!!
+27/11/2021, 13:56:45 - INFO - Req!!!
+27/11/2021, 13:56:54 - DEBUG - auth.service - login with username: a
+27/11/2021, 13:56:56 - INFO - Req!!!
+27/11/2021, 14:00:26 - INFO - Req!!!
+27/11/2021, 14:00:26 - INFO - Req!!!
+27/11/2021, 14:02:10 - INFO - Req!!!
+27/11/2021, 14:02:10 - INFO - Req!!!
+27/11/2021, 14:02:22 - DEBUG - auth.service - login with username: a
+27/11/2021, 14:02:27 - INFO - Req!!!
+27/11/2021, 14:03:56 - INFO - Req!!!
+27/11/2021, 14:04:14 - INFO - Req!!!
+27/11/2021, 14:30:45 - INFO - Req!!!
+27/11/2021, 14:30:45 - INFO - Req from: a
+27/11/2021, 14:30:45 - ERROR - cannot find toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 14:30:45 - ERROR - Failed to get toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 14:44:47 - INFO - Req!!!
+27/11/2021, 14:44:47 - INFO - Req!!!
+27/11/2021, 14:48:46 - INFO - Req!!!
+27/11/2021, 14:57:10 - INFO - Req!!!
+27/11/2021, 14:57:10 - INFO - Req!!!
+27/11/2021, 15:00:03 - INFO - Req!!!
+27/11/2021, 15:09:26 - INFO - Req!!!
+27/11/2021, 15:17:26 - INFO - Req!!!
+27/11/2021, 15:17:26 - INFO - Req!!!
+27/11/2021, 15:21:28 - INFO - Req!!!
+27/11/2021, 15:21:28 - INFO - Req!!!
+27/11/2021, 15:21:43 - INFO - Req!!!
+27/11/2021, 15:27:04 - INFO - Req!!!
+27/11/2021, 15:34:08 - INFO - Req!!!
+27/11/2021, 15:35:24 - INFO - Req!!!
+27/11/2021, 15:50:50 - INFO - Req!!!
+27/11/2021, 15:50:57 - INFO - Req!!!
+27/11/2021, 15:51:02 - INFO - Req!!!
+27/11/2021, 16:01:59 - INFO - Req!!!
+27/11/2021, 16:02:10 - INFO - Req!!!
+27/11/2021, 16:02:26 - INFO - Req!!!
+27/11/2021, 16:02:32 - INFO - Req!!!
+27/11/2021, 16:02:36 - INFO - Req!!!
+27/11/2021, 16:02:39 - INFO - Req!!!
+27/11/2021, 16:02:43 - INFO - Req!!!
+27/11/2021, 16:02:44 - INFO - Req!!!
+27/11/2021, 16:02:49 - INFO - Req!!!
+27/11/2021, 16:02:51 - INFO - Req!!!
+27/11/2021, 16:02:55 - INFO - Req!!!
+27/11/2021, 16:02:57 - INFO - Req!!!
+27/11/2021, 16:03:05 - INFO - Req!!!
+27/11/2021, 16:03:20 - INFO - Req!!!
+27/11/2021, 16:03:31 - DEBUG - auth.service - login with username: b
+27/11/2021, 16:03:33 - INFO - Req!!!
+27/11/2021, 16:03:39 - INFO - Req!!!
+27/11/2021, 16:03:39 - INFO - Req!!!
+27/11/2021, 16:03:48 - DEBUG - auth.service - signup with username: r, fullname: r
+27/11/2021, 16:03:48 - DEBUG - auth.route - new account created: {"username":"r","password":"$2b$10$5sdWRkVS81UUGCf4noAjIOI5EYUiULiezUIbC9yGKtSx6MoySYAsq","fullname":"r","isAdmin":false,"_id":"61a23ac4738c3fc0ac949a8c"}
+27/11/2021, 16:03:48 - DEBUG - auth.service - login with username: r
+27/11/2021, 16:03:49 - INFO - Req!!!
+27/11/2021, 16:03:57 - DEBUG - auth.service - login with username: a
+27/11/2021, 16:03:59 - INFO - Req!!!
+27/11/2021, 16:04:36 - INFO - Req!!!
+27/11/2021, 16:09:19 - INFO - Req!!!
+27/11/2021, 16:09:23 - INFO - Req!!!
+27/11/2021, 16:09:28 - INFO - Req!!!
+27/11/2021, 16:09:47 - INFO - Req!!!
+27/11/2021, 16:10:37 - INFO - Req!!!
+27/11/2021, 16:14:19 - INFO - Req!!!
+27/11/2021, 16:14:19 - ERROR - cannot find toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 16:14:19 - ERROR - Failed to get toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 16:14:36 - INFO - Req!!!
+27/11/2021, 16:14:36 - INFO - Req!!!
+27/11/2021, 16:14:48 - INFO - Req!!!
+27/11/2021, 16:14:48 - ERROR - cannot find toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 16:14:48 - ERROR - Failed to get toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 16:14:51 - INFO - Req!!!
+27/11/2021, 16:14:51 - ERROR - cannot find toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 16:14:51 - ERROR - Failed to get toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 16:14:54 - INFO - Req!!!
+27/11/2021, 16:14:54 - ERROR - cannot find toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 16:14:54 - ERROR - Failed to get toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 16:15:00 - INFO - Req!!!
+27/11/2021, 16:15:00 - INFO - Req!!!
+27/11/2021, 16:17:55 - INFO - Req!!!
+27/11/2021, 16:17:55 - ERROR - cannot find toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 16:17:55 - ERROR - Failed to get toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 16:18:20 - INFO - Req!!!
+27/11/2021, 16:18:20 - INFO - Req!!!
+27/11/2021, 16:18:31 - INFO - Req!!!
+27/11/2021, 16:18:31 - ERROR - cannot find toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 16:18:31 - ERROR - Failed to get toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 16:18:59 - INFO - Req!!!
+27/11/2021, 16:18:59 - INFO - Req!!!
+27/11/2021, 16:19:22 - INFO - Req!!!
+27/11/2021, 16:19:22 - ERROR - cannot find toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 16:19:22 - ERROR - Failed to get toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 16:20:01 - INFO - Req!!!
+27/11/2021, 16:20:01 - INFO - Req!!!
+27/11/2021, 16:24:45 - INFO - Req!!!
+27/11/2021, 16:24:45 - INFO - Req!!!
+27/11/2021, 16:25:48 - INFO - Req!!!
+27/11/2021, 16:25:48 - INFO - Req!!!
+27/11/2021, 16:28:06 - INFO - Req!!!
+27/11/2021, 16:28:06 - INFO - Req!!!
+27/11/2021, 16:28:58 - INFO - Req!!!
+27/11/2021, 16:28:58 - INFO - Req!!!
+27/11/2021, 16:29:43 - INFO - Req!!!
+27/11/2021, 16:29:43 - INFO - Req!!!
+27/11/2021, 16:29:52 - INFO - Req!!!
+27/11/2021, 16:29:52 - ERROR - cannot find toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 16:29:52 - ERROR - Failed to get toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 16:29:55 - INFO - Req!!!
+27/11/2021, 16:29:55 - ERROR - cannot find toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 16:29:55 - ERROR - Failed to get toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 16:30:07 - INFO - Req!!!
+27/11/2021, 16:30:07 - ERROR - cannot find toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 16:30:07 - ERROR - Failed to get toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 16:30:23 - INFO - Req!!!
+27/11/2021, 16:30:23 - INFO - Req!!!
+27/11/2021, 16:32:06 - INFO - Req!!!
+27/11/2021, 16:32:06 - INFO - Req!!!
+27/11/2021, 16:36:40 - INFO - Req!!!
+27/11/2021, 16:36:40 - INFO - Req!!!
+27/11/2021, 16:36:44 - INFO - Req!!!
+27/11/2021, 16:36:44 - ERROR - cannot find toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 16:36:44 - ERROR - Failed to get toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 16:38:04 - INFO - Req!!!
+27/11/2021, 16:38:04 - INFO - Req!!!
+27/11/2021, 16:38:21 - INFO - Req!!!
+27/11/2021, 16:38:21 - INFO - Req!!!
+27/11/2021, 16:39:26 - INFO - Req!!!
+27/11/2021, 16:39:26 - INFO - Req!!!
+27/11/2021, 16:39:35 - INFO - Req!!!
+27/11/2021, 16:39:35 - INFO - Req!!!
+27/11/2021, 16:40:01 - INFO - Req!!!
+27/11/2021, 16:40:01 - INFO - Req!!!
+27/11/2021, 16:40:51 - INFO - Req!!!
+27/11/2021, 16:40:51 - INFO - Req!!!
+27/11/2021, 16:41:06 - INFO - Req!!!
+27/11/2021, 16:41:06 - ERROR - cannot find toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 16:41:06 - ERROR - Failed to get toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 16:41:10 - INFO - Req!!!
+27/11/2021, 16:41:10 - ERROR - cannot find toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 16:41:10 - ERROR - Failed to get toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 16:41:12 - INFO - Req!!!
+27/11/2021, 16:41:12 - INFO - Req!!!
+27/11/2021, 16:41:16 - INFO - Req!!!
+27/11/2021, 16:41:16 - ERROR - cannot find toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 16:41:16 - ERROR - Failed to get toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 16:41:34 - INFO - Req!!!
+27/11/2021, 16:41:34 - INFO - Req!!!
+27/11/2021, 16:41:40 - INFO - Req!!!
+27/11/2021, 16:41:43 - INFO - Req!!!
+27/11/2021, 16:41:47 - INFO - Req!!!
+27/11/2021, 16:41:51 - INFO - Req!!!
+27/11/2021, 16:41:57 - INFO - Req!!!
+27/11/2021, 16:42:01 - INFO - Req!!!
+27/11/2021, 16:42:01 - ERROR - cannot find toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 16:42:01 - ERROR - Failed to get toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 16:42:11 - INFO - Req!!!
+27/11/2021, 16:42:11 - ERROR - cannot find toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 16:42:11 - ERROR - Failed to get toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 16:42:13 - INFO - Req!!!
+27/11/2021, 16:42:13 - INFO - Req!!!
+27/11/2021, 16:44:04 - INFO - Req!!!
+27/11/2021, 16:44:04 - INFO - Req!!!
+27/11/2021, 16:45:24 - INFO - Req!!!
+27/11/2021, 16:45:24 - INFO - Req!!!
+27/11/2021, 16:45:27 - INFO - Req!!!
+27/11/2021, 16:45:27 - INFO - Req!!!
+27/11/2021, 16:45:31 - INFO - Req!!!
+27/11/2021, 16:45:31 - ERROR - cannot find toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 16:45:31 - ERROR - Failed to get toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 16:46:58 - INFO - Req!!!
+27/11/2021, 16:46:58 - INFO - Req!!!
+27/11/2021, 16:47:07 - INFO - Req!!!
+27/11/2021, 16:47:11 - INFO - Req!!!
+27/11/2021, 16:47:11 - ERROR - cannot find toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 16:47:11 - ERROR - Failed to get toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 16:47:35 - INFO - Req!!!
+27/11/2021, 16:47:35 - INFO - Req!!!
+27/11/2021, 16:47:56 - INFO - Req!!!
+27/11/2021, 16:47:56 - ERROR - cannot find toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 16:47:56 - ERROR - Failed to get toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 16:48:24 - INFO - Req!!!
+27/11/2021, 16:48:24 - INFO - Req!!!
+27/11/2021, 16:48:29 - INFO - Req!!!
+27/11/2021, 16:48:29 - ERROR - cannot find toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 16:48:29 - ERROR - Failed to get toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 16:48:43 - INFO - Req!!!
+27/11/2021, 16:48:43 - ERROR - cannot find toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 16:48:43 - ERROR - Failed to get toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 16:48:44 - INFO - Req!!!
+27/11/2021, 16:48:44 - INFO - Req!!!
+27/11/2021, 16:48:49 - INFO - Req!!!
+27/11/2021, 16:48:49 - ERROR - cannot find toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 16:48:49 - ERROR - Failed to get toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 16:52:56 - INFO - Req!!!
+27/11/2021, 16:52:56 - ERROR - cannot find toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 16:52:56 - ERROR - Failed to get toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 16:52:58 - INFO - Req!!!
+27/11/2021, 16:52:58 - INFO - Req!!!
+27/11/2021, 16:53:03 - INFO - Req!!!
+27/11/2021, 16:53:03 - ERROR - cannot find toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 16:53:03 - ERROR - Failed to get toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 16:53:32 - INFO - Req!!!
+27/11/2021, 16:53:37 - DEBUG - auth.service - login with username: a
+27/11/2021, 16:53:39 - INFO - Req!!!
+27/11/2021, 16:53:48 - INFO - Req!!!
+27/11/2021, 16:53:48 - ERROR - cannot find toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 16:53:48 - ERROR - Failed to get toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 16:54:02 - INFO - Req!!!
+27/11/2021, 16:55:35 - INFO - Req!!!
+27/11/2021, 16:55:35 - INFO - Req!!!
+27/11/2021, 16:55:41 - INFO - Req!!!
+27/11/2021, 16:55:41 - INFO - Req!!!
+27/11/2021, 16:55:46 - INFO - Req!!!
+27/11/2021, 16:55:46 - ERROR - cannot find toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 16:55:46 - ERROR - Failed to get toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 16:56:45 - INFO - Server is running on port: 3000
+27/11/2021, 16:56:49 - INFO - Req!!!
+27/11/2021, 16:56:49 - ERROR - cannot find toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 16:56:49 - ERROR - Failed to get toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 16:56:50 - INFO - Req!!!
+27/11/2021, 16:56:50 - INFO - Req!!!
+27/11/2021, 16:57:09 - INFO - Req!!!
+27/11/2021, 16:57:09 - INFO - Req!!!
+27/11/2021, 16:57:14 - INFO - Req!!!
+27/11/2021, 16:57:14 - ERROR - cannot find toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 16:57:14 - ERROR - Failed to get toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 16:58:18 - INFO - Server is running on port: 3000
+27/11/2021, 16:58:25 - INFO - Req!!!
+27/11/2021, 16:58:25 - ERROR - cannot find toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 16:58:25 - ERROR - Failed to get toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 16:58:43 - INFO - Req!!!
+27/11/2021, 16:58:43 - INFO - Req!!!
+27/11/2021, 16:59:22 - INFO - Server is running on port: 3000
+27/11/2021, 16:59:27 - INFO - Req!!!
+27/11/2021, 16:59:27 - INFO - Req!!!
+27/11/2021, 16:59:50 - INFO - Server is running on port: 3000
+27/11/2021, 17:00:00 - INFO - Req!!!
+27/11/2021, 17:00:00 - INFO - Req!!!
+27/11/2021, 17:00:15 - INFO - Req!!!
+27/11/2021, 17:00:15 - ERROR - cannot find toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 17:00:15 - ERROR - Failed to get toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 17:01:17 - INFO - Req!!!
+27/11/2021, 17:01:39 - ERROR - while finding toy :name="1" | {}
+27/11/2021, 17:01:39 - ERROR - Failed to get toy | {}
+27/11/2021, 17:01:53 - INFO - Req!!!
+27/11/2021, 17:02:03 - INFO - Req!!!
+27/11/2021, 17:05:19 - INFO - Req!!!
+27/11/2021, 17:15:07 - INFO - Server is running on port: 3000
+27/11/2021, 17:15:10 - INFO - Req!!!
+27/11/2021, 17:15:10 - INFO - Req!!!
+27/11/2021, 17:15:13 - INFO - Req!!!
+27/11/2021, 17:15:20 - INFO - Req!!!
+27/11/2021, 17:15:25 - INFO - Req!!!
+27/11/2021, 17:15:28 - INFO - Req!!!
+27/11/2021, 17:15:49 - INFO - Req!!!
+27/11/2021, 17:15:56 - INFO - Req!!!
+27/11/2021, 17:16:09 - INFO - Req!!!
+27/11/2021, 17:16:11 - INFO - Req!!!
+27/11/2021, 17:16:58 - INFO - Req!!!
+27/11/2021, 17:16:58 - INFO - Req!!!
+27/11/2021, 17:17:03 - INFO - Req!!!
+27/11/2021, 17:17:05 - INFO - Req!!!
+27/11/2021, 17:17:09 - INFO - Req!!!
+27/11/2021, 17:17:13 - INFO - Req!!!
+27/11/2021, 17:17:17 - INFO - Req!!!
+27/11/2021, 17:18:12 - INFO - Server is running on port: 3000
+27/11/2021, 17:18:15 - INFO - Req!!!
+27/11/2021, 17:18:15 - INFO - Req!!!
+27/11/2021, 17:18:19 - INFO - Req!!!
+27/11/2021, 17:18:19 - ERROR - cannot find toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 17:18:19 - ERROR - Failed to get toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 17:18:49 - INFO - Req!!!
+27/11/2021, 17:18:49 - ERROR - cannot find toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 17:18:49 - ERROR - Failed to get toys | {"ok":0,"code":40352,"codeName":"Location40352","name":"MongoError"}
+27/11/2021, 17:18:50 - INFO - Req!!!
+27/11/2021, 17:18:50 - INFO - Req!!!
+27/11/2021, 17:18:54 - INFO - Req!!!
+27/11/2021, 17:18:58 - INFO - Req!!!
+27/11/2021, 17:19:03 - INFO - Req!!!
+27/11/2021, 17:19:08 - INFO - Req!!!
+27/11/2021, 17:25:11 - INFO - Req!!!
+27/11/2021, 17:25:11 - INFO - Req!!!
+27/11/2021, 17:25:15 - INFO - Req!!!
+27/11/2021, 17:25:18 - INFO - Req!!!
+27/11/2021, 17:25:22 - INFO - Req!!!
+27/11/2021, 17:25:26 - INFO - Req!!!
+27/11/2021, 17:25:40 - INFO - Req!!!
+27/11/2021, 17:25:40 - INFO - Req!!!
+27/11/2021, 17:26:20 - INFO - Req!!!
+27/11/2021, 17:26:24 - INFO - Req!!!
+27/11/2021, 17:26:27 - INFO - Req!!!
+27/11/2021, 17:27:52 - INFO - Req!!!
+27/11/2021, 17:27:52 - INFO - Req!!!
+27/11/2021, 17:27:57 - INFO - Req!!!
+27/11/2021, 17:28:01 - INFO - Req!!!
+27/11/2021, 17:28:19 - INFO - Req!!!
+27/11/2021, 17:28:26 - INFO - Req!!!
+27/11/2021, 17:28:44 - INFO - Req!!!
+27/11/2021, 17:28:44 - INFO - Req!!!
+27/11/2021, 17:28:51 - INFO - Req!!!
+27/11/2021, 17:28:58 - INFO - Req!!!
+27/11/2021, 17:29:02 - INFO - Req!!!
+27/11/2021, 17:29:04 - INFO - Req!!!
+27/11/2021, 17:29:04 - INFO - Req!!!
+27/11/2021, 17:29:13 - INFO - Req!!!
+27/11/2021, 17:29:16 - INFO - Req!!!
+27/11/2021, 17:29:20 - INFO - Req!!!
+27/11/2021, 17:30:29 - INFO - Server is running on port: 3000
+27/11/2021, 17:30:31 - INFO - Req!!!
+27/11/2021, 17:30:31 - ERROR - cannot find toys | {}
+27/11/2021, 17:30:31 - ERROR - Failed to get toys | {}
+27/11/2021, 17:30:31 - INFO - Req!!!
+27/11/2021, 17:30:31 - ERROR - cannot find toys | {}
+27/11/2021, 17:30:31 - ERROR - Failed to get toys | {}
+27/11/2021, 17:31:05 - INFO - Server is running on port: 3000
+27/11/2021, 17:31:08 - INFO - Req!!!
+27/11/2021, 17:31:08 - INFO - Req!!!
+27/11/2021, 17:31:29 - INFO - Req!!!
+27/11/2021, 17:31:36 - INFO - Req!!!
+27/11/2021, 17:31:42 - INFO - Req!!!
+27/11/2021, 17:45:56 - INFO - Req!!!
+27/11/2021, 17:46:39 - INFO - Req!!!
+27/11/2021, 17:47:22 - INFO - Req!!!
+27/11/2021, 17:47:31 - DEBUG - auth.service - login with username: a
+27/11/2021, 17:47:35 - INFO - Req!!!
+27/11/2021, 17:47:51 - INFO - Req!!!
+27/11/2021, 17:48:03 - INFO - Req!!!
+27/11/2021, 17:48:03 - INFO - Req!!!
+27/11/2021, 17:49:21 - INFO - Req!!!
+27/11/2021, 17:49:21 - INFO - Req!!!
+27/11/2021, 17:49:34 - DEBUG - auth.service - login with username: a
+27/11/2021, 17:49:37 - INFO - Req!!!
+27/11/2021, 17:49:42 - INFO - Req!!!
+27/11/2021, 17:49:56 - INFO - Req!!!
+27/11/2021, 17:50:35 - INFO - Req!!!
+27/11/2021, 17:50:39 - DEBUG - auth.service - login with username: a
+27/11/2021, 17:51:51 - INFO - Req!!!
+27/11/2021, 17:52:00 - INFO - Req!!!
+27/11/2021, 17:52:03 - DEBUG - auth.service - login with username: a
+27/11/2021, 17:52:11 - INFO - Req!!!
+27/11/2021, 17:52:54 - INFO - Req!!!
+27/11/2021, 17:52:59 - DEBUG - auth.service - login with username: a
+27/11/2021, 17:53:12 - INFO - Req!!!
+27/11/2021, 17:53:54 - INFO - Req!!!
+27/11/2021, 17:53:57 - DEBUG - auth.service - login with username: a
+27/11/2021, 17:54:10 - INFO - Req!!!
+27/11/2021, 17:55:22 - INFO - Req!!!
+27/11/2021, 17:55:25 - DEBUG - auth.service - login with username: a
+27/11/2021, 17:55:28 - INFO - Req!!!
+27/11/2021, 17:55:35 - DEBUG - auth.service - login with username: a
+27/11/2021, 17:55:37 - INFO - Req!!!
+27/11/2021, 17:55:41 - INFO - Req!!!
+27/11/2021, 17:55:43 - INFO - Req!!!
+27/11/2021, 17:55:48 - INFO - Req!!!
+27/11/2021, 17:55:58 - DEBUG - auth.service - signup with username: m, fullname: m
+27/11/2021, 17:55:58 - DEBUG - auth.route - new account created: {"username":"m","password":"$2b$10$9kP4nHd7Wb67juHnCLz6NekZx38wP/esHxaVPmPPtM86yJVB6Tliy","fullname":"m","isAdmin":false,"_id":"61a2550e0c4a164bbc022bd4"}
+27/11/2021, 17:55:58 - DEBUG - auth.service - login with username: m
+27/11/2021, 17:56:06 - INFO - Req!!!
+27/11/2021, 17:56:08 - INFO - Req!!!
+27/11/2021, 17:56:15 - DEBUG - auth.service - login with username: a
+27/11/2021, 17:56:22 - INFO - Req!!!
+27/11/2021, 18:07:53 - INFO - Req!!!
+27/11/2021, 18:11:37 - INFO - Req!!!
+27/11/2021, 18:17:25 - INFO - Req!!!
+27/11/2021, 18:17:27 - INFO - Req!!!
+27/11/2021, 18:18:08 - INFO - Req!!!
+27/11/2021, 18:18:19 - INFO - Req!!!
+27/11/2021, 18:18:24 - INFO - Req!!!
+27/11/2021, 18:18:32 - DEBUG - auth.service - login with username: 
+27/11/2021, 18:18:32 - ERROR - Failed to Login Invalid username or password
+27/11/2021, 18:18:34 - DEBUG - auth.service - login with username: a
+27/11/2021, 18:18:35 - ERROR - Failed to Login Invalid username or password
+27/11/2021, 18:18:40 - DEBUG - auth.service - login with username: a
+27/11/2021, 18:18:41 - INFO - Req!!!
+27/11/2021, 18:18:43 - INFO - Req!!!
+27/11/2021, 18:19:15 - INFO - Req!!!
+27/11/2021, 18:19:26 - INFO - Req!!!
+27/11/2021, 18:19:32 - INFO - Req!!!
+27/11/2021, 18:22:59 - INFO - Req!!!
+27/11/2021, 18:25:14 - INFO - Req!!!
+28/11/2021, 11:09:28 - INFO - Req!!!
+28/11/2021, 13:42:39 - INFO - Server is running on port: 3000
+28/11/2021, 13:46:59 - INFO - Server is running on port: 3000 
+28/11/2021, 13:47:24 - INFO - Server is running on port: 3000 
+28/11/2021, 13:52:43 - INFO - Server is running on port: 3000 
+28/11/2021, 13:52:56 - INFO - Server is running on port: 3000 
+28/11/2021, 14:02:27 - INFO - Server is running on port: 3000 
+28/11/2021, 14:02:39 - INFO - Server is running on port: 3000 
+28/11/2021, 14:04:13 - INFO - Req!!! (sid: EX_clQFySJmi0U51-67U9fZvAHS9oyRp)
+28/11/2021, 14:04:13 - INFO - Req!!! (sid: d0BnxhfFTK1kxUY_27bm6ttiR8uM7Yjq)
+28/11/2021, 14:04:19 - INFO - Req!!! (sid: _pkkvxQF4HGnCZWG6dyXzOcGnKJkqoVX)
+28/11/2021, 14:25:53 - INFO - Req!!! (sid: N6carPMlmkncTBhqww6GiHH8w9k3jFts)
+28/11/2021, 14:25:53 - INFO - Req!!! (sid: hM0I38heuh_Cl8anTqZ5uIeGFTEp6Unr)
+28/11/2021, 14:34:04 - INFO - Req!!! (sid: UfNsIikAyGVsV0Ktj-Z-8L7GrlQjdyov)
+28/11/2021, 14:34:04 - INFO - Req!!! (sid: O57elv92X7y6IJWkVG2Ojj7I-ycHpiKA)
+28/11/2021, 14:37:34 - INFO - Req!!! (sid: jAWURs7VigE8WG3JzgiVVMu4LhJ2Fdf3)
+28/11/2021, 14:37:34 - INFO - Req!!! (sid: TfICMIECfpYH_uQYxH7_gzXmlcBssKRx)
+28/11/2021, 14:37:46 - INFO - Req!!! (sid: Se3Tms52lE7xfd4m1lUpWgX3VGuORqtx)
+28/11/2021, 14:37:46 - INFO - Req!!! (sid: Y9g2ytepr_MPhhRRubPiennvAxTdeBl3)
+28/11/2021, 14:38:58 - INFO - Server is running on port: 3000 
+28/11/2021, 14:39:50 - INFO - Req!!! (sid: -qRA1zEyAFSVyv_T8cw8h_MxnD97tYYu)
+28/11/2021, 14:39:53 - INFO - Req!!! (sid: ZUb8Z31xuj48_jEpFNnGEmVMj28dHJKe)
+28/11/2021, 14:41:51 - INFO - Req!!! (sid: ge-2iVnknwNNgF-zl7ZYawOBzv39U9bx)
+28/11/2021, 15:01:44 - INFO - Req!!! (sid: gvusdVYxwjkMY_J7dG2WVNeXVGjIh5UH)
+28/11/2021, 15:02:37 - INFO - Req!!! (sid: pS_QLpio4qdzQsP3xFqr9Iv6SeEfPEaV)
+28/11/2021, 15:29:07 - INFO - Req!!! (sid: 6-UtyUPwxNac9ZtsXiGhy3pdBcoK_gnC)
+28/11/2021, 15:29:14 - INFO - Req!!! (sid: ag3J59rJMhLD7AFoHFIoYh62VLeW2D1w)
+28/11/2021, 15:42:10 - INFO - Req!!! (sid: LI6K0EaBc97kMF0Jbn3Kg1VMKUpqS6mw)
+28/11/2021, 15:42:10 - INFO - Req!!! (sid: TTF0Yb58BC6N22cjB2-pkc2ArhPfmvVE)
+28/11/2021, 15:44:14 - INFO - Req!!! (sid: YOT1y4lsB3U3IjYgWr3O4uQ_YaOzsDOW)
+28/11/2021, 15:52:18 - INFO - Req!!! (sid: ciqOmrsvGpSX6WMfBSuoUEpTvKBVCjON)
+28/11/2021, 15:54:35 - INFO - Req!!! (sid: 8SDlkff-1614-4J2CQuv1Io069MWNiJs)
+28/11/2021, 15:54:41 - INFO - Req!!! (sid: yJ4DPFOeOl3WSt47UbTiJHClHejSXyH2)
+28/11/2021, 15:58:32 - INFO - Req!!! (sid: DYmgj-hwkK4ZCC-BODy4bwQM0TNgToVf)
+28/11/2021, 15:58:44 - DEBUG - auth.service - login with username:  (sid: UQnQ8VFHrb1Jm3jMUlOdPAaHB9BJufRJ)
+28/11/2021, 15:58:44 - ERROR - Failed to Login Invalid username or password (sid: UQnQ8VFHrb1Jm3jMUlOdPAaHB9BJufRJ)
+28/11/2021, 15:58:45 - DEBUG - auth.service - login with username: a (sid: UQnQ8VFHrb1Jm3jMUlOdPAaHB9BJufRJ)
+28/11/2021, 15:58:46 - ERROR - Failed to Login Invalid username or password (sid: UQnQ8VFHrb1Jm3jMUlOdPAaHB9BJufRJ)
+28/11/2021, 15:58:46 - DEBUG - auth.service - login with username: a (sid: UQnQ8VFHrb1Jm3jMUlOdPAaHB9BJufRJ)
+28/11/2021, 16:02:17 - INFO - Req!!! (sid: OiRDtxljpTBCtmacECzSUiRTYKYYprjI)
+28/11/2021, 16:02:27 - DEBUG - auth.service - login with username:  (sid: 3alokmw92rIYJVI3s5B8qxBNPg_d1C7j)
+28/11/2021, 16:02:27 - ERROR - Failed to Login Invalid username or password (sid: 3alokmw92rIYJVI3s5B8qxBNPg_d1C7j)
+28/11/2021, 16:02:28 - DEBUG - auth.service - login with username: a (sid: 3alokmw92rIYJVI3s5B8qxBNPg_d1C7j)
+28/11/2021, 16:02:28 - ERROR - Failed to Login Invalid username or password (sid: 3alokmw92rIYJVI3s5B8qxBNPg_d1C7j)
+28/11/2021, 16:02:29 - DEBUG - auth.service - login with username: a (sid: 3alokmw92rIYJVI3s5B8qxBNPg_d1C7j)
+28/11/2021, 16:03:35 - INFO - Req!!! (sid: 8UGKuZN5eg1W5MNQglEoWwGMndctBb1u)
+28/11/2021, 16:03:42 - DEBUG - auth.service - login with username: a (sid: RVqYCyqMzoqBSoK49Mzdd-53Q_nmOz4h)
+28/11/2021, 16:05:13 - INFO - Req!!! (sid: xcfUjAr7sLfBL1juT3iYzAEb6aj4FRtY)
+28/11/2021, 16:05:20 - DEBUG - auth.service - login with username: a (sid: IWZ9QEMgUybmPWuNG6o2VSYLutKg3Fcw)
+28/11/2021, 16:05:20 - INFO - Req!!! (sid: ZREboOkKKdhHNoPCwOFPRhAOVFBgjHIt)
+28/11/2021, 16:06:22 - INFO - Req!!! (sid: -gnqLnlnvnhF32pOITqqfmB25XSE1KiV)
+28/11/2021, 16:06:22 - INFO - Req!!! (sid: 6cNtOc6_6UHHuiPaTTyd3cascGPmrrNe)
+28/11/2021, 16:06:32 - DEBUG - auth.service - login with username: a (sid: d90K1_CmVCi4sSZNNf6Bj-5W6h9Oxm0b)
+28/11/2021, 16:06:32 - INFO - Req!!! (sid: LuXKajNwxDMSAcLVVIRAGzvhVzqUN3Md)
+28/11/2021, 16:06:51 - INFO - Req!!! (sid: c1oUPP85JJnZldqvXWSbFa5OmNv8WIrm)
+28/11/2021, 16:07:07 - INFO - Req!!! (sid: 6BRM4e-EU6TAbUW5CUCACVyWLy6N69oz)
+28/11/2021, 16:07:07 - INFO - Req!!! (sid: FSjVmD3BWjfdzy85F2Wstr6moX1GBpCH)
+28/11/2021, 16:07:23 - INFO - Req!!! (sid: 5CsYTfNIc_sbvsI51aFxFeWUe1tNie6k)
+28/11/2021, 16:07:59 - INFO - Req!!! (sid: TUc2V5nZ_2oa8F2A_06Nq1Ivrgqo70fM)
+28/11/2021, 16:08:09 - INFO - Req!!! (sid: -WVAUfevAw4k_UYu07qY1v8RT2CRkU0R)
+28/11/2021, 16:09:46 - DEBUG - auth.service - signup with username: , fullname:  (sid: HgQRfIyNeXntJFAywBvPMaKa9clR-kOK)
+28/11/2021, 16:09:46 - ERROR - Failed to signup fullname, username and password are required! (sid: HgQRfIyNeXntJFAywBvPMaKa9clR-kOK)
+28/11/2021, 16:09:46 - INFO - Req!!! (sid: eL7K0CkcTCJMrb6ebqtGYgpN0HRMcRsM)
+28/11/2021, 16:09:50 - INFO - Req!!! (sid: jE7AqA4jDaXSA-cH2MnWEBF6QzhDkwRF)
+28/11/2021, 16:09:50 - INFO - Req!!! (sid: QcQdRGGPuhYZEnX4Dr8G9agmULMZpEpK)
+28/11/2021, 16:09:59 - DEBUG - auth.service - signup with username: , fullname:  (sid: HgQRfIyNeXntJFAywBvPMaKa9clR-kOK)
+28/11/2021, 16:09:59 - ERROR - Failed to signup fullname, username and password are required! (sid: HgQRfIyNeXntJFAywBvPMaKa9clR-kOK)
+28/11/2021, 16:09:59 - INFO - Req!!! (sid: gBF1JbO2fsVTsJLg30pEXiijEV0Qk6E6)
+28/11/2021, 16:10:40 - INFO - Req!!! (sid: 6QgAs1PG-4AxP6d1HsWMzUBIPaKeBSq1)
+28/11/2021, 16:10:40 - INFO - Req!!! (sid: ebfxttYjSQSjiG2K7EvIvLu4RMq3cD3o)
+28/11/2021, 16:10:50 - DEBUG - auth.service - signup with username: n, fullname: n (sid: HgQRfIyNeXntJFAywBvPMaKa9clR-kOK)
+28/11/2021, 16:10:51 - DEBUG - auth.route - new account created: {"username":"n","password":"$2b$10$gDFR7LPhOdLQkCnMBu5YsOOoM15dkJnIxBCdkEw01oGIa.a3pUsmO","fullname":"n","isAdmin":false,"_id":"61a38deb507b44b7e8670d31"} (sid: HgQRfIyNeXntJFAywBvPMaKa9clR-kOK)
+28/11/2021, 16:10:51 - DEBUG - auth.service - login with username: n (sid: HgQRfIyNeXntJFAywBvPMaKa9clR-kOK)
+28/11/2021, 16:10:51 - INFO - Req!!! (sid: PZeiCkdrjuTXvi9YhuBFpHWxjFtQWXuA)
+28/11/2021, 16:11:12 - INFO - Req!!! (sid: ZETKoWzvaRpUMyYzPMuINPUGH-JfTCL7)
+28/11/2021, 16:11:12 - INFO - Req!!! (sid: u18Hozz5DXTlvt1IimdAlB3MNJQjqOlq)
+28/11/2021, 16:11:22 - DEBUG - auth.service - login with username: a (sid: J4FdLib9d15-e6WQEysyPIoxwmKmhLfx)
+28/11/2021, 16:11:23 - INFO - Req!!! (sid: Xd9MjEi0Zcw8fo_4WGiljud3vUaBkPCI)
+28/11/2021, 16:11:27 - INFO - Req!!! (sid: R8FIGbHx1_pZhNuASJs6rJkyoRjyiolt)
+28/11/2021, 16:11:42 - DEBUG - auth.service - signup with username: n, fullname: n (sid: q5z5j-dbGRT1ofrXD8yY2OGzPP_QjUxM)
+28/11/2021, 16:11:42 - DEBUG - auth.route - new account created: {"username":"n","password":"$2b$10$xa0roYTPKvo1PYU/redg/.27C01j6qbuldv2Fgk6Q6ocBKDyCRQ9C","fullname":"n","isAdmin":false,"_id":"61a38e1e507b44b7e8670d32"} (sid: q5z5j-dbGRT1ofrXD8yY2OGzPP_QjUxM)
+28/11/2021, 16:11:42 - DEBUG - auth.service - login with username: n (sid: q5z5j-dbGRT1ofrXD8yY2OGzPP_QjUxM)
+28/11/2021, 16:11:42 - INFO - Req!!! (sid: 67Lw6lLmFFaZWSEtRxtdO4I09iJAyL_d)
+28/11/2021, 16:13:28 - INFO - Req!!! (sid: GipH7X1lQ3HTFY-Ym27MllzBsMS-NbPh)
+28/11/2021, 16:13:28 - INFO - Req!!! (sid: i7Q4MnvaipBR_oMWC1lIP44RFfx_4dvA)
+28/11/2021, 16:13:34 - DEBUG - auth.service - login with username: a (sid: km6x_5z6nIeiCQO19iHYnfRQGopwdFaC)
+28/11/2021, 16:13:34 - INFO - Req!!! (sid: UyffXYuWKlmxn9jS3x9xED6t5FYcMgFC)
+28/11/2021, 16:13:38 - INFO - Req!!! (sid: wl0kWF3nw9OuZS4EmlWnJDqr4jFedgrV)
+28/11/2021, 16:13:45 - DEBUG - auth.service - signup with username: p, fullname: p (sid: _WRxUgIOyRuofO7077SjvVAcvC8trlZw)
+28/11/2021, 16:13:45 - DEBUG - auth.route - new account created: {"username":"p","password":"$2b$10$ErnzjQwGlI3/xU2yEM3B3OPIV3fPTKV.T.Y.PAZxRDtsjXuZ6wy2e","fullname":"p","isAdmin":false,"_id":"61a38e99507b44b7e8670d33"} (sid: _WRxUgIOyRuofO7077SjvVAcvC8trlZw)
+28/11/2021, 16:13:45 - DEBUG - auth.service - login with username: p (sid: _WRxUgIOyRuofO7077SjvVAcvC8trlZw)
+28/11/2021, 16:13:45 - INFO - Req!!! (sid: VYVv4YutSy0jn5FsJH2JE7YkMPMqwkRT)
+28/11/2021, 16:14:19 - INFO - Req!!! (sid: Lw2V59KQj-PultH746kx-LpXCSd9txgG)
+28/11/2021, 16:14:19 - INFO - Req!!! (sid: tsKWBk05H9eNpIm9iSW5EDn1FDO6Oz0e)
+28/11/2021, 16:14:26 - DEBUG - auth.service - signup with username: u, fullname: u (sid: _WRxUgIOyRuofO7077SjvVAcvC8trlZw)
+28/11/2021, 16:14:26 - DEBUG - auth.route - new account created: {"username":"u","password":"$2b$10$PIHQ7zdGk4ejmjn7EE8RsOstLr/A0DvFgUgvOg0kD88ikoq9Y5ote","fullname":"u","isAdmin":false,"_id":"61a38ec2507b44b7e8670d34"} (sid: _WRxUgIOyRuofO7077SjvVAcvC8trlZw)
+28/11/2021, 16:14:26 - DEBUG - auth.service - login with username: u (sid: _WRxUgIOyRuofO7077SjvVAcvC8trlZw)
+28/11/2021, 16:14:26 - INFO - Req!!! (sid: d1QNHKTKITcZ5Dhbcr_sZg5OQXciBpNi)
+28/11/2021, 16:15:31 - INFO - Req!!! (sid: D7ZOn66ogND41B0uvZzSGNtSdED57GU7)
+28/11/2021, 16:15:31 - INFO - Req!!! (sid: iWhwin3GhrSlDBb-g3aVWotXoFnQRlbJ)
+28/11/2021, 16:15:37 - DEBUG - auth.service - signup with username: y, fullname: y (sid: NSBaJ9zZsmicWCvl3ILOg7WHMsfDnaLX)
+28/11/2021, 16:15:37 - DEBUG - auth.route - new account created: {"username":"y","password":"$2b$10$QTX0my4Z2nrDzmEeWunyzuiW0kvM9QOv.dTKa6A3/VbgTSVORdPky","fullname":"y","isAdmin":false,"_id":"61a38f09507b44b7e8670d35"} (sid: NSBaJ9zZsmicWCvl3ILOg7WHMsfDnaLX)
+28/11/2021, 16:15:37 - DEBUG - auth.service - login with username: y (sid: NSBaJ9zZsmicWCvl3ILOg7WHMsfDnaLX)
+28/11/2021, 16:15:37 - INFO - Req!!! (sid: 723PGW56BoRQeq-zUeQ2ec6YZX1KeHpu)
+28/11/2021, 16:16:00 - INFO - Req!!! (sid: npEYEqFIR9xFli2_lEWJV0RsMhb7kpr2)
+28/11/2021, 16:16:00 - INFO - Req!!! (sid: rpiYPBzBE6T397ybhAGXc7KpDRDE0eRz)
+28/11/2021, 16:16:07 - DEBUG - auth.service - signup with username: t, fullname: t (sid: NSBaJ9zZsmicWCvl3ILOg7WHMsfDnaLX)
+28/11/2021, 16:16:07 - DEBUG - auth.route - new account created: {"username":"t","password":"$2b$10$Vj8S37tO/pVQXjyLRyPaku3XHd2qdQkeT2HHiihv7OKdO1.6TccHG","fullname":"t","isAdmin":false,"_id":"61a38f27507b44b7e8670d36"} (sid: NSBaJ9zZsmicWCvl3ILOg7WHMsfDnaLX)
+28/11/2021, 16:16:07 - DEBUG - auth.service - login with username: t (sid: NSBaJ9zZsmicWCvl3ILOg7WHMsfDnaLX)
+28/11/2021, 16:16:07 - INFO - Req!!! (sid: Rxq3Cp9DY8Hpmoa0reIdwafzgGTcX3PI)
+28/11/2021, 16:19:30 - INFO - Req!!! (sid: leinsSCCuHLy60pF5A9pwdf6IZdxSJpR)
+28/11/2021, 16:19:30 - INFO - Req!!! (sid: sr_B4jn4s-vn8nvdbYkGoUqvtgIBUmtu)
+28/11/2021, 16:19:37 - DEBUG - auth.service - login with username: a (sid: luMaIu0nFmZZCH7FYLqtdCZRMdPUTTUa)
+28/11/2021, 16:19:37 - INFO - Req!!! (sid: LA86PyTHmyYPCQ-i5OISYgNeWUvmGexF)
+28/11/2021, 16:19:47 - INFO - Req!!! (sid: WR_3kv-bd9yuqJC_uVzwdt_w4Ti7_lus)
+28/11/2021, 16:19:58 - INFO - Req!!! (sid: yxNMRKaoZfKBJhFJKebLvM9o8c-nK-Mg)
+28/11/2021, 16:20:04 - DEBUG - auth.service - signup with username: 77, fullname: 77 (sid: AWzPhzH3KeFNainSejwPZDN6pBzAtDB-)
+28/11/2021, 16:20:05 - DEBUG - auth.route - new account created: {"username":"77","password":"$2b$10$CJ.UaFeK6dG1V16M0KwVuORNRd7fdfSB/D9tADLOIJYJ9bTCefGsi","fullname":"77","isAdmin":false,"_id":"61a39015507b44b7e8670d38"} (sid: AWzPhzH3KeFNainSejwPZDN6pBzAtDB-)
+28/11/2021, 16:20:05 - DEBUG - auth.service - login with username: 77 (sid: AWzPhzH3KeFNainSejwPZDN6pBzAtDB-)
+28/11/2021, 16:20:05 - INFO - Req!!! (sid: 6RRKUEL5PqJusYt8HVhlIFNbxFTlT-Bq)
+28/11/2021, 16:20:19 - INFO - Req!!! (sid: uatqAq-9c__HH5B90hnO7SYd2i-m5ozn)
+28/11/2021, 16:20:19 - INFO - Req!!! (sid: mQovFph3KX75ZgDqbE79XiUbJOGw9ngv)
+28/11/2021, 16:20:33 - INFO - Req!!! (sid: mnRUG9LoGF1Kn_aZ2g8ItAgJk1svP4zI)
+28/11/2021, 16:20:41 - INFO - Req!!! (sid: r83bX6hGKhDWPgCkwp-0UktsqlqDJcrv)
+28/11/2021, 16:20:47 - INFO - Req!!! (sid: hvqFN7EjuNZ0BchnZtEJ4u6zBFQlbvVb)
+28/11/2021, 16:20:52 - DEBUG - auth.service - login with username: a (sid: DJ3QknRv-dXnuWO5ZBVJnwwrRIvu9Y3j)
+28/11/2021, 16:20:52 - INFO - Req!!! (sid: zzT0W7lhsgrxYA8wH3pLqA_zcJd2l_iW)
+28/11/2021, 16:20:57 - INFO - Req!!! (sid: yTG2OC_1ZbuhLui2Joo8NoEzKgMFA-aU)
+28/11/2021, 16:21:02 - INFO - Req!!! (sid: kBhDON4IN_-lc5I2CY1PldS7qoc8NAfR)
+28/11/2021, 16:24:43 - INFO - Req!!! (sid: dtYBZqXNcVlYFCoBK9zGzsvBxL2baHsj)
+28/11/2021, 16:25:55 - INFO - Req!!! (sid: Dnj68JYXBmHqGWpiuRLJdToB23raMKkO)
+28/11/2021, 16:26:27 - INFO - Req!!! (sid: EGm8QVORdPlivBvJ-PafzzHwdJChnbXz)
+28/11/2021, 16:27:41 - INFO - Req!!! (sid: gy9dCyxjY_g3do3EY9X5HUgF3-4B4Wzz)
+28/11/2021, 16:29:52 - INFO - Req!!! (sid: VoMah_XRRpcoCTWHHeQo53FGhuJ2hLql)
+28/11/2021, 16:32:32 - INFO - Req!!! (sid: FT3sQv5mG0OT8T-tbvcwodXiLE4TyK0I)
+28/11/2021, 16:33:23 - INFO - Req!!! (sid: 2_MtUVcPQldWJWlGGjyyWciw_5MlXFJf)
+28/11/2021, 16:33:49 - INFO - Req!!! (sid: hBStbsEIH0Gob-d0p0_Sz5pZJEdjAF4E)
+28/11/2021, 16:33:49 - INFO - Req!!! (sid: qOUjmM98cBhV4wlEaQjiIchSCkGHd8bg)
+28/11/2021, 16:35:16 - INFO - Req!!! (sid: ajaEBkqkVvpIiq2V9vVuGL-3lfI1ZZax)
+28/11/2021, 16:35:27 - INFO - Req!!! (sid: WzYou2FMzJcKT8tAo-erI19Bm5aPyUJa)
+28/11/2021, 16:40:57 - INFO - Req!!! (sid: XPbfyK1V7j1COW5tFsMFIurWgUYSz67o)
+28/11/2021, 16:41:10 - INFO - Req!!! (sid: Z2bcJIcPJGjmGprVXtSyNMhAGBHNFQa9)
+28/11/2021, 16:41:10 - INFO - Req!!! (sid: 1hx0265KpGBd75Y0khjU4xWK7EbBlLeT)
+28/11/2021, 16:47:00 - INFO - Req!!! (sid: 3zvxV_c7gRkmQ2scm1OB6ChQzdtXDprS)
+28/11/2021, 17:14:24 - INFO - Req!!! (sid: DJ3QknRv-dXnuWO5ZBVJnwwrRIvu9Y3j)
+28/11/2021, 17:14:24 - INFO - Req from: a (sid: DJ3QknRv-dXnuWO5ZBVJnwwrRIvu9Y3j)
+28/11/2021, 17:15:12 - INFO - Req!!! (sid: CbG5KrDYybbah4x8pF424KZ_aiGDotKl)
+28/11/2021, 17:21:58 - INFO - Req!!! (sid: i9Ou8A47ZuOwexkUv3yfDYEQbiMo8zI8)
+28/11/2021, 17:21:58 - INFO - Req!!! (sid: iIGsoYXKlfCJ1Cjgt74WfzD_hZBXIdqJ)
+28/11/2021, 17:22:34 - INFO - Req!!! (sid: rJR5IRVLca7Mcf6uGitVEsdcJNxU0LOz)
+28/11/2021, 17:22:34 - INFO - Req!!! (sid: juRcMDEWSb7IQOTDAoQ_Ft9dhpcg_xSn)
+28/11/2021, 17:24:24 - INFO - Req!!! (sid: JFi7mFI8v9_BbxiGfn9lD5J-SkG6m3Gn)
+28/11/2021, 17:24:24 - INFO - Req!!! (sid: 1_vQH6cj0RJPqdhHyZQFCi7fmS5BgifP)
+28/11/2021, 17:24:34 - INFO - Req!!! (sid: cKUCQ-iERi_cu2TLST8JWx5I_fxcLS17)
+28/11/2021, 17:24:42 - INFO - Req!!! (sid: TPuBA9YBro_-sijfyrWc-qlhz2ZzMSvy)
+28/11/2021, 17:24:42 - INFO - Req!!! (sid: 1lOKEbAhGrUhN8aeXataYvh6vj7bsaUB)
+28/11/2021, 17:25:46 - INFO - Req!!! (sid: hmPIfbwHCdJFB9skxXLmEZy1z4PA8Xcd)
+28/11/2021, 17:25:46 - INFO - Req!!! (sid: 0fgZSj332IYf8p4s0INyu5Xj1LKL6a0U)
+28/11/2021, 17:27:06 - INFO - Req!!! (sid: U2V3yuEBe8i3H8CZzxs7kZLenie1wct4)
+28/11/2021, 17:27:34 - INFO - Req!!! (sid: TIXtKucffXBKw635hsjtqcxyiXz3JYWI)
+28/11/2021, 17:27:37 - INFO - Req!!! (sid: 2b_3f3LyTvhF6Gj6G26KYS0edsuLIlVF)
+28/11/2021, 17:28:04 - INFO - Req!!! (sid: 0OwMI_5PplYSWOqrssqMidg5u2MwfJBh)
+28/11/2021, 17:29:54 - INFO - Req!!! (sid: UAHAdp1ak5zeL92hetzbrLR7IrfBmAv4)
+28/11/2021, 17:29:58 - DEBUG - auth.service - login with username: b (sid: 9xoMeNUgdAFzVzlg7AXSeV1QpOvyrZeO)
+28/11/2021, 17:29:58 - INFO - Req!!! (sid: Az1ZKFcJSEP204rva75_d-0fszmenXf8)
+28/11/2021, 17:30:09 - INFO - Req!!! (sid: NBFMInhXcnkwV-F3umWopE-mQg-eLuj6)
+28/11/2021, 17:30:14 - INFO - Req!!! (sid: 7fxbcTLCPacT22gO11SjqkbmkCC9QmD4)
+28/11/2021, 17:30:17 - DEBUG - auth.service - login with username: a (sid: 7_nGQIdkY-7h7qukuvJIXBoqr9ANenrS)
+28/11/2021, 17:30:17 - INFO - Req!!! (sid: u9NC-C91lpVbU6lb0ka7piUzE6ZfNgoK)
+28/11/2021, 17:30:21 - INFO - Req!!! (sid: 7dvRasKIl7_DH7UxM1hLVM_KkObcgQki)
+28/11/2021, 17:30:26 - INFO - Req!!! (sid: sPrefrpTMmVakoBqMQTnxXimUV4xw7vf)
+28/11/2021, 17:30:29 - DEBUG - auth.service - login with username: b (sid: Cughv6JpWpnSNB_rszEE8zO5CDKL7DGQ)
+28/11/2021, 17:30:29 - INFO - Req!!! (sid: Bn2G8JpyepvtrjEamJ9OHcwZgkBGRANj)
+28/11/2021, 17:30:35 - INFO - Req!!! (sid: QY_knxU6lA1Zo3JnmP5NsCCQT-I-q65o)
+28/11/2021, 17:39:07 - INFO - Server is running on port: 3000 
+28/11/2021, 17:40:12 - INFO - Server is running on port: 3000 
+28/11/2021, 17:44:09 - INFO - Server is running on port: 3000 
+28/11/2021, 17:53:03 - INFO - Req!!! (sid: HuCOn77NslvxdIX2KBQV0xIJ7fs-ora1)
+28/11/2021, 18:02:47 - INFO - Req!!! (sid: ZdpSsev_oFaHcQOM8p9n35rWKxbKSSre)
+28/11/2021, 18:02:47 - INFO - Req!!! (sid: HuCOn77NslvxdIX2KBQV0xIJ7fs-ora1)
+28/11/2021, 18:16:09 - INFO - Req!!! (sid: HuCOn77NslvxdIX2KBQV0xIJ7fs-ora1)
+28/11/2021, 18:16:30 - INFO - Req!!! (sid: cMwkfqC69pNBzpLafTP2baOTNAwHVgSs)
+28/11/2021, 18:16:30 - INFO - Req!!! (sid: HuCOn77NslvxdIX2KBQV0xIJ7fs-ora1)
+28/11/2021, 19:12:01 - INFO - Req!!! (sid: HuCOn77NslvxdIX2KBQV0xIJ7fs-ora1)
+28/11/2021, 19:12:16 - INFO - Req!!! (sid: IXtw2AYS08mGnm2cQdVO8deTFUVRtXYw)
+28/11/2021, 19:12:21 - DEBUG - auth.service - login with username: a (sid: HuCOn77NslvxdIX2KBQV0xIJ7fs-ora1)
+28/11/2021, 19:12:21 - INFO - Req!!! (sid: aEUszzhou3_7O2cJPzR50kQbnh6Bd1Lk)
+28/11/2021, 19:12:26 - INFO - Req!!! (sid: sjaS-WKLZkAqmBtnvsBWdRaJF3waEhmR)
+28/11/2021, 19:12:28 - INFO - Req!!! (sid: HuCOn77NslvxdIX2KBQV0xIJ7fs-ora1)
+28/11/2021, 19:12:28 - INFO - Req from: a (sid: HuCOn77NslvxdIX2KBQV0xIJ7fs-ora1)
+28/11/2021, 19:12:33 - INFO - Req!!! (sid: HuCOn77NslvxdIX2KBQV0xIJ7fs-ora1)
+28/11/2021, 19:12:33 - INFO - Req from: a (sid: HuCOn77NslvxdIX2KBQV0xIJ7fs-ora1)
+28/11/2021, 19:12:33 - ERROR - while finding user 61a3b8818d5d9fd7a8b910ac | TypeError: Cannot convert undefined or null to object (sid: HuCOn77NslvxdIX2KBQV0xIJ7fs-ora1)
+28/11/2021, 19:12:34 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object (sid: HuCOn77NslvxdIX2KBQV0xIJ7fs-ora1)
+28/11/2021, 19:12:59 - INFO - Req!!! (sid: HuCOn77NslvxdIX2KBQV0xIJ7fs-ora1)
+28/11/2021, 19:12:59 - INFO - Req from: a (sid: HuCOn77NslvxdIX2KBQV0xIJ7fs-ora1)
+28/11/2021, 19:13:05 - INFO - Req!!! (sid: HuCOn77NslvxdIX2KBQV0xIJ7fs-ora1)
+28/11/2021, 19:13:05 - INFO - Req from: a (sid: HuCOn77NslvxdIX2KBQV0xIJ7fs-ora1)
+28/11/2021, 19:13:05 - ERROR - while finding user 61a3b8a18d5d9fd7a8b910ae | TypeError: Cannot convert undefined or null to object (sid: HuCOn77NslvxdIX2KBQV0xIJ7fs-ora1)
+28/11/2021, 19:13:05 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object (sid: HuCOn77NslvxdIX2KBQV0xIJ7fs-ora1)
+28/11/2021, 19:30:08 - INFO - Req!!! (sid: HuCOn77NslvxdIX2KBQV0xIJ7fs-ora1)
+28/11/2021, 19:30:08 - INFO - Req from: a (sid: HuCOn77NslvxdIX2KBQV0xIJ7fs-ora1)
+28/11/2021, 19:30:13 - INFO - Req!!! (sid: G7WkIe53RFUv8_h8obNHcj58Hc13jVyB)
+28/11/2021, 19:30:13 - INFO - Req!!! (sid: HuCOn77NslvxdIX2KBQV0xIJ7fs-ora1)
+28/11/2021, 19:30:13 - INFO - Req from: a (sid: HuCOn77NslvxdIX2KBQV0xIJ7fs-ora1)
+28/11/2021, 19:32:00 - INFO - Req!!! (sid: HuCOn77NslvxdIX2KBQV0xIJ7fs-ora1)
+28/11/2021, 19:32:00 - INFO - Req from: a (sid: HuCOn77NslvxdIX2KBQV0xIJ7fs-ora1)
+28/11/2021, 19:32:04 - INFO - Req!!! (sid: ff_IKm169prd4KO0a3j6zc6aXDJkCErS)
+28/11/2021, 19:32:04 - INFO - Req!!! (sid: HuCOn77NslvxdIX2KBQV0xIJ7fs-ora1)
+28/11/2021, 19:32:04 - INFO - Req from: a (sid: HuCOn77NslvxdIX2KBQV0xIJ7fs-ora1)
+28/11/2021, 19:32:09 - INFO - Req!!! (sid: HuCOn77NslvxdIX2KBQV0xIJ7fs-ora1)
+28/11/2021, 19:32:09 - INFO - Req from: a (sid: HuCOn77NslvxdIX2KBQV0xIJ7fs-ora1)
+28/11/2021, 19:32:20 - INFO - Req!!! (sid: ssTBXZEXq8EEc5RcKz_VRyaO4lzEhIPq)
+28/11/2021, 19:32:20 - INFO - Req!!! (sid: HuCOn77NslvxdIX2KBQV0xIJ7fs-ora1)
+28/11/2021, 19:32:20 - INFO - Req from: a (sid: HuCOn77NslvxdIX2KBQV0xIJ7fs-ora1)
+28/11/2021, 19:34:32 - INFO - Req!!! (sid: HuCOn77NslvxdIX2KBQV0xIJ7fs-ora1)
+28/11/2021, 19:34:32 - INFO - Req from: a (sid: HuCOn77NslvxdIX2KBQV0xIJ7fs-ora1)
+28/11/2021, 19:34:34 - INFO - Req!!! (sid: r8qpAaiC-yGKGuSOMncUlcT9bjP01ZKr)
+28/11/2021, 19:34:34 - INFO - Req!!! (sid: HuCOn77NslvxdIX2KBQV0xIJ7fs-ora1)
+28/11/2021, 19:34:34 - INFO - Req from: a (sid: HuCOn77NslvxdIX2KBQV0xIJ7fs-ora1)
+28/11/2021, 19:35:26 - INFO - Req!!! (sid: HuCOn77NslvxdIX2KBQV0xIJ7fs-ora1)
+28/11/2021, 19:35:26 - INFO - Req from: a (sid: HuCOn77NslvxdIX2KBQV0xIJ7fs-ora1)
+28/11/2021, 19:35:30 - INFO - Req!!! (sid: D9PAv12yF-t-ChoWFn90oewzBl0fQWFK)
+28/11/2021, 19:35:30 - INFO - Req!!! (sid: HuCOn77NslvxdIX2KBQV0xIJ7fs-ora1)
+28/11/2021, 19:35:30 - INFO - Req from: a (sid: HuCOn77NslvxdIX2KBQV0xIJ7fs-ora1)
+28/11/2021, 19:36:13 - INFO - Req!!! (sid: HuCOn77NslvxdIX2KBQV0xIJ7fs-ora1)
+28/11/2021, 19:36:13 - INFO - Req from: a (sid: HuCOn77NslvxdIX2KBQV0xIJ7fs-ora1)
+28/11/2021, 19:36:16 - INFO - Req!!! (sid: ls0-ONbmRhGRHgdZq_NoqX3WjYTQ6AQT)
+28/11/2021, 19:36:16 - INFO - Req!!! (sid: HuCOn77NslvxdIX2KBQV0xIJ7fs-ora1)
+28/11/2021, 19:36:16 - INFO - Req from: a (sid: HuCOn77NslvxdIX2KBQV0xIJ7fs-ora1)
+28/11/2021, 19:36:22 - INFO - Req!!! (sid: HuCOn77NslvxdIX2KBQV0xIJ7fs-ora1)
+28/11/2021, 19:36:22 - INFO - Req from: a (sid: HuCOn77NslvxdIX2KBQV0xIJ7fs-ora1)
+28/11/2021, 19:36:22 - ERROR - while finding user 61a3be168d5d9fd7a8b910b0 | TypeError: Cannot convert undefined or null to object (sid: HuCOn77NslvxdIX2KBQV0xIJ7fs-ora1)
+28/11/2021, 19:36:22 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object (sid: HuCOn77NslvxdIX2KBQV0xIJ7fs-ora1)
+28/11/2021, 19:37:39 - INFO - Server is running on port: 3000 
+28/11/2021, 19:38:25 - INFO - Server is running on port: 3000 
+28/11/2021, 19:39:17 - INFO - Req!!! (sid: iQd9LhjZsuLIX-CVG1PHyRvKAsdReqxf)
+28/11/2021, 19:39:17 - INFO - Req!!! (sid: 7q28x7r3zovrHJgAkdz2LCfP9RgFRR6R)
+28/11/2021, 19:39:23 - INFO - Req!!! (sid: 0LowhN8yAHDJ14VGw2xV-sFayOjRkMJ3)
+28/11/2021, 19:39:25 - INFO - Req!!! (sid: CqUsZiuJdWqlHQ0_ydC0arPIkFunPzml)
+28/11/2021, 19:39:25 - INFO - Req!!! (sid: 4VIERNcLAsqys9-oyBrwD8_CoJbaKekJ)
+28/11/2021, 19:39:32 - INFO - Req!!! (sid: t0EkBVyl70omP0bGCzC62N8FlwfPrOHS)
+28/11/2021, 19:39:32 - INFO - Req!!! (sid: cqYkSVBBUQKILz0hbPUgsB3Ea0PXfQ3C)
+28/11/2021, 19:39:46 - DEBUG - auth.service - login with username: a (sid: iklVmh79iNQFq-R-rDOr7ZKs4rFe-5KS)
+28/11/2021, 19:39:46 - INFO - Req!!! (sid: HpbL1LHXIyV_eWfwDW83U-80XqLpD2fz)
+28/11/2021, 19:39:55 - INFO - Req!!! (sid: iklVmh79iNQFq-R-rDOr7ZKs4rFe-5KS)
+28/11/2021, 19:39:55 - INFO - Req from: a (sid: iklVmh79iNQFq-R-rDOr7ZKs4rFe-5KS)
+28/11/2021, 19:40:03 - INFO - Req!!! (sid: iklVmh79iNQFq-R-rDOr7ZKs4rFe-5KS)
+28/11/2021, 19:40:03 - INFO - Req from: a (sid: iklVmh79iNQFq-R-rDOr7ZKs4rFe-5KS)
+28/11/2021, 19:40:03 - ERROR - while finding user 61a3bef3a4a8f1d424dfb61e | TypeError: Cannot convert undefined or null to object (sid: iklVmh79iNQFq-R-rDOr7ZKs4rFe-5KS)
+28/11/2021, 19:40:03 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object (sid: iklVmh79iNQFq-R-rDOr7ZKs4rFe-5KS)
+28/11/2021, 19:42:28 - INFO - Req!!! (sid: sG_5zg5hGoA7EMQZtgmbwfMtmv6ABEh6)
+28/11/2021, 19:42:28 - INFO - Req!!! (sid: iklVmh79iNQFq-R-rDOr7ZKs4rFe-5KS)
+28/11/2021, 19:42:28 - INFO - Req from: a (sid: iklVmh79iNQFq-R-rDOr7ZKs4rFe-5KS)
+28/11/2021, 19:42:31 - INFO - Req!!! (sid: iklVmh79iNQFq-R-rDOr7ZKs4rFe-5KS)
+28/11/2021, 19:42:31 - INFO - Req from: a (sid: iklVmh79iNQFq-R-rDOr7ZKs4rFe-5KS)
+28/11/2021, 19:42:31 - ERROR - while finding user 61a3bf87a4a8f1d424dfb620 | TypeError: Cannot convert undefined or null to object (sid: iklVmh79iNQFq-R-rDOr7ZKs4rFe-5KS)
+28/11/2021, 19:42:31 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object (sid: iklVmh79iNQFq-R-rDOr7ZKs4rFe-5KS)
+28/11/2021, 19:44:29 - INFO - Req!!! (sid: iklVmh79iNQFq-R-rDOr7ZKs4rFe-5KS)
+28/11/2021, 19:44:29 - INFO - Req from: a (sid: iklVmh79iNQFq-R-rDOr7ZKs4rFe-5KS)
+28/11/2021, 19:44:33 - INFO - Req!!! (sid: jpxFVexTYjXjzF8nAzNvi8nWlbIi3OXz)
+28/11/2021, 19:44:33 - INFO - Req!!! (sid: iklVmh79iNQFq-R-rDOr7ZKs4rFe-5KS)
+28/11/2021, 19:44:33 - INFO - Req from: a (sid: iklVmh79iNQFq-R-rDOr7ZKs4rFe-5KS)
+28/11/2021, 19:44:36 - INFO - Req!!! (sid: iklVmh79iNQFq-R-rDOr7ZKs4rFe-5KS)
+28/11/2021, 19:44:36 - INFO - Req from: a (sid: iklVmh79iNQFq-R-rDOr7ZKs4rFe-5KS)
+28/11/2021, 19:44:36 - ERROR - while finding user 61a3c004a4a8f1d424dfb622 | TypeError: Cannot convert undefined or null to object (sid: iklVmh79iNQFq-R-rDOr7ZKs4rFe-5KS)
+28/11/2021, 19:44:36 - ERROR - Failed to add review | TypeError: Cannot convert undefined or null to object (sid: iklVmh79iNQFq-R-rDOr7ZKs4rFe-5KS)
+28/11/2021, 19:48:58 - INFO - Server is running on port: 3000 
+28/11/2021, 19:49:30 - INFO - Server is running on port: 3000 
+28/11/2021, 19:49:34 - INFO - Req!!! (sid: L5kgWKaZ5AEWEq5ttaYdi5RoTh9H7h_y)
+28/11/2021, 19:49:34 - INFO - Req!!! (sid: h_ooaCDeIayTIFYbE15MDneUk425TlLr)
+28/11/2021, 19:49:45 - INFO - Req!!! (sid: lNYAGCv_TabzeoHE_tzk98OdiB0L454Y)
+28/11/2021, 19:49:45 - INFO - Req!!! (sid: yPqyYfD2szfHkIOz9BLdjKf2e-bL5Ons)
+28/11/2021, 19:49:49 - INFO - Req!!! (sid: yPqyYfD2szfHkIOz9BLdjKf2e-bL5Ons)
+28/11/2021, 19:49:56 - DEBUG - auth.service - login with username: a (sid: yPqyYfD2szfHkIOz9BLdjKf2e-bL5Ons)
+28/11/2021, 19:49:56 - INFO - Req!!! (sid: 3HZS_KcpfEMkUIcfnrE4O8MW8W9zE3T0)
+28/11/2021, 19:50:00 - INFO - Req!!! (sid: z-dDNdNsGkVcN7jpKsyNOTWkrxWUnnUE)
+28/11/2021, 19:50:01 - INFO - Req!!! (sid: yPqyYfD2szfHkIOz9BLdjKf2e-bL5Ons)
+28/11/2021, 19:50:01 - INFO - Req from: a (sid: yPqyYfD2szfHkIOz9BLdjKf2e-bL5Ons)
+28/11/2021, 19:50:04 - INFO - Req!!! (sid: yPqyYfD2szfHkIOz9BLdjKf2e-bL5Ons)
+28/11/2021, 19:50:04 - INFO - Req from: a (sid: yPqyYfD2szfHkIOz9BLdjKf2e-bL5Ons)
+28/11/2021, 20:28:51 - INFO - Req!!! (sid: Y2T22in7LEk-dVba_lvsPNvA495Vw_w7)
+28/11/2021, 20:28:51 - INFO - Req!!! (sid: yPqyYfD2szfHkIOz9BLdjKf2e-bL5Ons)
+28/11/2021, 20:28:51 - INFO - Req from: a (sid: yPqyYfD2szfHkIOz9BLdjKf2e-bL5Ons)
+28/11/2021, 20:28:59 - INFO - Req!!! (sid: yPqyYfD2szfHkIOz9BLdjKf2e-bL5Ons)
+28/11/2021, 20:28:59 - INFO - Req from: a (sid: yPqyYfD2szfHkIOz9BLdjKf2e-bL5Ons)
+28/11/2021, 20:55:49 - INFO - Req!!! (sid: yPqyYfD2szfHkIOz9BLdjKf2e-bL5Ons)
+28/11/2021, 20:55:49 - INFO - Req from: a (sid: yPqyYfD2szfHkIOz9BLdjKf2e-bL5Ons)
+28/11/2021, 20:55:49 - INFO - Req!!! (sid: yPqyYfD2szfHkIOz9BLdjKf2e-bL5Ons)
+28/11/2021, 20:55:49 - INFO - Req from: a (sid: yPqyYfD2szfHkIOz9BLdjKf2e-bL5Ons)
+28/11/2021, 20:55:53 - INFO - Req!!! (sid: yPqyYfD2szfHkIOz9BLdjKf2e-bL5Ons)
+28/11/2021, 20:55:53 - INFO - Req from: a (sid: yPqyYfD2szfHkIOz9BLdjKf2e-bL5Ons)
+28/11/2021, 20:55:53 - INFO - Req!!! (sid: yPqyYfD2szfHkIOz9BLdjKf2e-bL5Ons)
+28/11/2021, 20:55:53 - INFO - Req from: a (sid: yPqyYfD2szfHkIOz9BLdjKf2e-bL5Ons)
+28/11/2021, 20:56:47 - INFO - Req!!! (sid: Mut1gkL-yVT-G0dR4q01oFIQ3bhh6WIG)
+28/11/2021, 20:56:47 - INFO - Req!!! (sid: yPqyYfD2szfHkIOz9BLdjKf2e-bL5Ons)
+28/11/2021, 20:56:47 - INFO - Req from: a (sid: yPqyYfD2szfHkIOz9BLdjKf2e-bL5Ons)
+28/11/2021, 20:57:03 - INFO - Req!!! (sid: yPqyYfD2szfHkIOz9BLdjKf2e-bL5Ons)
+28/11/2021, 20:57:03 - INFO - Req from: a (sid: yPqyYfD2szfHkIOz9BLdjKf2e-bL5Ons)
+28/11/2021, 20:57:06 - INFO - Req!!! (sid: yPqyYfD2szfHkIOz9BLdjKf2e-bL5Ons)
+28/11/2021, 20:57:06 - INFO - Req from: a (sid: yPqyYfD2szfHkIOz9BLdjKf2e-bL5Ons)
+28/11/2021, 20:59:14 - INFO - Req!!! (sid: S7hMHO2Nh1ejcUTceXr1YJxWBGfVuL2g)
+28/11/2021, 20:59:14 - INFO - Req!!! (sid: yPqyYfD2szfHkIOz9BLdjKf2e-bL5Ons)
+28/11/2021, 20:59:14 - INFO - Req from: a (sid: yPqyYfD2szfHkIOz9BLdjKf2e-bL5Ons)
+28/11/2021, 20:59:21 - INFO - Req!!! (sid: yPqyYfD2szfHkIOz9BLdjKf2e-bL5Ons)
+28/11/2021, 20:59:21 - INFO - Req from: a (sid: yPqyYfD2szfHkIOz9BLdjKf2e-bL5Ons)
+28/11/2021, 20:59:37 - INFO - Req!!! (sid: POuxbAYY2WUaZ0-aUnC5qqBPlamtR1pu)
+28/11/2021, 20:59:37 - INFO - Req!!! (sid: yPqyYfD2szfHkIOz9BLdjKf2e-bL5Ons)
+28/11/2021, 20:59:37 - INFO - Req from: a (sid: yPqyYfD2szfHkIOz9BLdjKf2e-bL5Ons)
+28/11/2021, 21:00:25 - INFO - Req!!! (sid: F55QW94IVpBqg00eCRn95X0YtlkuYBbG)
+28/11/2021, 21:00:25 - INFO - Req!!! (sid: yPqyYfD2szfHkIOz9BLdjKf2e-bL5Ons)
+28/11/2021, 21:00:25 - INFO - Req from: a (sid: yPqyYfD2szfHkIOz9BLdjKf2e-bL5Ons)
+28/11/2021, 21:00:31 - INFO - Req!!! (sid: yPqyYfD2szfHkIOz9BLdjKf2e-bL5Ons)
+28/11/2021, 21:00:31 - INFO - Req from: a (sid: yPqyYfD2szfHkIOz9BLdjKf2e-bL5Ons)
+28/11/2021, 21:01:22 - INFO - Req!!! (sid: RCEwglUCwfyTdA0GOhqCxbhk4u-Ow2bm)
+28/11/2021, 21:01:22 - INFO - Req!!! (sid: yPqyYfD2szfHkIOz9BLdjKf2e-bL5Ons)
+28/11/2021, 21:01:22 - INFO - Req from: a (sid: yPqyYfD2szfHkIOz9BLdjKf2e-bL5Ons)
+28/11/2021, 21:01:35 - INFO - Req!!! (sid: yPqyYfD2szfHkIOz9BLdjKf2e-bL5Ons)
+28/11/2021, 21:01:35 - INFO - Req from: a (sid: yPqyYfD2szfHkIOz9BLdjKf2e-bL5Ons)
+28/11/2021, 21:01:47 - INFO - Req!!! (sid: yPqyYfD2szfHkIOz9BLdjKf2e-bL5Ons)
+28/11/2021, 21:01:47 - INFO - Req from: a (sid: yPqyYfD2szfHkIOz9BLdjKf2e-bL5Ons)
+28/11/2021, 21:13:10 - INFO - Server is running on port: 3000 
+28/11/2021, 21:15:46 - INFO - Req!!! (sid: PrYimJQqZIBz09GJK-BerQrBt72V4dND)
+28/11/2021, 21:15:46 - INFO - Req!!! (sid: txyBDOsWpaKT_lNxfxHOx0uGlzGsBPPz)
+28/11/2021, 21:17:20 - INFO - Req!!! (sid: txyBDOsWpaKT_lNxfxHOx0uGlzGsBPPz)
+28/11/2021, 21:17:45 - INFO - Req!!! (sid: q5ZK9h0IMTWvp1-8odXiSmsVZAgg1NyI)
+28/11/2021, 21:17:45 - INFO - Req!!! (sid: txyBDOsWpaKT_lNxfxHOx0uGlzGsBPPz)
+28/11/2021, 21:17:50 - INFO - Req!!! (sid: cjHyKPodVoJN-_wBzzNTqw7xF9Yjwo6X)
+28/11/2021, 21:17:51 - INFO - Req!!! (sid: txyBDOsWpaKT_lNxfxHOx0uGlzGsBPPz)
+28/11/2021, 21:17:54 - INFO - Req!!! (sid: txyBDOsWpaKT_lNxfxHOx0uGlzGsBPPz)
+28/11/2021, 21:18:06 - INFO - Req!!! (sid: O09vE-K2SICyJPAk3l8lje5AC_ZPo8Hv)
+28/11/2021, 21:18:11 - DEBUG - auth.service - login with username: a (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:18:11 - INFO - Req!!! (sid: 2Zc4pmf8PHWqAL04hm-z3sJsO4gQ4JwE)
+28/11/2021, 21:18:15 - INFO - Req!!! (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:18:15 - INFO - Req from: a (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:18:22 - INFO - Req!!! (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:18:22 - INFO - Req from: a (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:18:37 - INFO - Req!!! (sid: ssoAhVCPO0p0Pds5riq2EZYjUcmbPnaI)
+28/11/2021, 21:18:37 - INFO - Req!!! (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:18:37 - INFO - Req from: a (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:19:12 - INFO - Req!!! (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:19:12 - INFO - Req from: a (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:19:23 - INFO - Req!!! (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:19:23 - INFO - Req from: a (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:19:23 - INFO - Req!!! (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:19:23 - INFO - Req from: a (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:20:27 - INFO - Req!!! (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:20:27 - INFO - Req from: a (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:20:31 - INFO - Req!!! (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:20:31 - INFO - Req from: a (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:20:31 - INFO - Req!!! (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:20:31 - INFO - Req from: a (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:20:44 - INFO - Req!!! (sid: yAtgrmE12-oX0PgDKCf5JZyt3tfVjX7K)
+28/11/2021, 21:20:44 - INFO - Req!!! (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:20:44 - INFO - Req from: a (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:20:50 - INFO - Req!!! (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:20:50 - INFO - Req from: a (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:20:50 - INFO - Req!!! (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:20:50 - INFO - Req from: a (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:21:59 - INFO - Req!!! (sid: EQyAbWZQQOlreJ9OFMTLMZqlsaDi76KX)
+28/11/2021, 21:22:01 - INFO - Req!!! (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:22:01 - INFO - Req from: a (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:23:29 - INFO - Req!!! (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:23:29 - INFO - Req from: a (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:23:29 - INFO - Req!!! (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:23:29 - INFO - Req from: a (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:25:02 - INFO - Req!!! (sid: 4ixXSO0yMPDhHhl9CjpD0Em_xpb5zBLo)
+28/11/2021, 21:25:02 - INFO - Req!!! (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:25:02 - INFO - Req from: a (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:25:02 - INFO - Req!!! (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:25:02 - INFO - Req from: a (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:25:07 - INFO - Req!!! (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:25:07 - INFO - Req from: a (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:25:07 - INFO - Req!!! (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:25:07 - INFO - Req from: a (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:25:49 - INFO - Req!!! (sid: FTVadrdXSVP5rmInypQIaupiMWPJptew)
+28/11/2021, 21:25:49 - INFO - Req!!! (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:25:49 - INFO - Req from: a (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:25:49 - INFO - Req!!! (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:25:49 - INFO - Req from: a (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:25:54 - INFO - Req!!! (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:25:54 - INFO - Req from: a (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:25:54 - INFO - Req!!! (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:25:54 - INFO - Req from: a (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:27:37 - INFO - Req!!! (sid: UMxDk6UVL2iIfrdkZb71NZ-e8nYOc6eX)
+28/11/2021, 21:27:38 - INFO - Req!!! (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:27:38 - INFO - Req from: a (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:27:38 - INFO - Req!!! (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:27:38 - INFO - Req from: a (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:28:53 - INFO - Req!!! (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:28:53 - INFO - Req from: a (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:29:49 - INFO - Req!!! (sid: mKRHCcNfYccHxBgo7tO6XS49U8_HGxw6)
+28/11/2021, 21:29:49 - INFO - Req!!! (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:29:49 - INFO - Req from: a (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:44:55 - INFO - Req!!! (sid: ZJLRM97TOyiLJLn7owJXlmT6wE8AxYkJ)
+28/11/2021, 21:44:55 - INFO - Req!!! (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:44:55 - INFO - Req from: a (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:44:55 - INFO - Req!!! (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:44:55 - INFO - Req from: a (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:45:17 - INFO - Req!!! (sid: r1AFF5aGgPK0GoCIP0e2hNWlQviaJyoq)
+28/11/2021, 21:45:17 - INFO - Req!!! (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:45:17 - INFO - Req from: a (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:45:17 - INFO - Req!!! (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:45:17 - INFO - Req from: a (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:45:20 - INFO - Req!!! (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:45:20 - INFO - Req from: a (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:45:20 - INFO - Req!!! (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:45:20 - INFO - Req from: a (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:48:25 - INFO - Req!!! (sid: cavHivP46Cjkq5UsUDsx5aXcGfHBq4Ie)
+28/11/2021, 21:48:25 - INFO - Req!!! (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:48:25 - INFO - Req from: a (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:48:25 - INFO - Req!!! (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:48:25 - INFO - Req from: a (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:51:09 - INFO - Req!!! (sid: gg5mE4ype1qLgDbMExS7VA7P5WTQp-43)
+28/11/2021, 21:51:09 - INFO - Req!!! (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:51:09 - INFO - Req from: a (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:51:09 - INFO - Req!!! (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:51:09 - INFO - Req from: a (sid: _LhauKxG4GvbsGz4iJ_9nCU6LmqP0J0G)
+28/11/2021, 21:53:19 - INFO - Server is running on port: 3000 
+28/11/2021, 21:54:12 - INFO - Req!!! (sid: OynEr4nl1nai2tKIR2gHhVNsBf60VH3S)
+28/11/2021, 21:54:12 - INFO - Req!!! (sid: 6_4DmruBPNCHCo8hs4VfeLRrLG9QGoo2)
+28/11/2021, 21:54:22 - INFO - Req!!! (sid: 6_4DmruBPNCHCo8hs4VfeLRrLG9QGoo2)
+28/11/2021, 21:54:22 - INFO - Req!!! (sid: 6_4DmruBPNCHCo8hs4VfeLRrLG9QGoo2)
+28/11/2021, 21:54:26 - INFO - Req!!! (sid: 1L0UpMz-IaiMpG5R2nFgzHNMho-WO5lO)
+28/11/2021, 21:54:26 - INFO - Req!!! (sid: 6_4DmruBPNCHCo8hs4VfeLRrLG9QGoo2)
+28/11/2021, 21:54:26 - INFO - Req!!! (sid: 6_4DmruBPNCHCo8hs4VfeLRrLG9QGoo2)
+28/11/2021, 21:55:25 - INFO - Req!!! (sid: DnAVOaQjUffLOzd6sMTLkvmyFV6nyz6a)
+28/11/2021, 21:55:25 - INFO - Req!!! (sid: 6_4DmruBPNCHCo8hs4VfeLRrLG9QGoo2)
+28/11/2021, 21:55:25 - INFO - Req!!! (sid: 6_4DmruBPNCHCo8hs4VfeLRrLG9QGoo2)
+28/11/2021, 21:56:00 - INFO - Req!!! (sid: 6_4DmruBPNCHCo8hs4VfeLRrLG9QGoo2)
+28/11/2021, 21:56:00 - INFO - Req!!! (sid: 6_4DmruBPNCHCo8hs4VfeLRrLG9QGoo2)
+28/11/2021, 21:56:11 - INFO - Req!!! (sid: IUUHEQUy6zg4_PlvwVfIMsN2NOfNazz_)
+28/11/2021, 21:56:11 - INFO - Req!!! (sid: 6_4DmruBPNCHCo8hs4VfeLRrLG9QGoo2)
+28/11/2021, 21:56:11 - INFO - Req!!! (sid: 6_4DmruBPNCHCo8hs4VfeLRrLG9QGoo2)
+28/11/2021, 21:56:15 - INFO - Req!!! (sid: 6_4DmruBPNCHCo8hs4VfeLRrLG9QGoo2)
+28/11/2021, 21:56:15 - INFO - Req!!! (sid: 6_4DmruBPNCHCo8hs4VfeLRrLG9QGoo2)
+28/11/2021, 21:56:52 - INFO - Req!!! (sid: ib7w72Rp4OYGZMQBohyaROEfuOph4BNL)
+28/11/2021, 21:56:56 - INFO - Req!!! (sid: grsaL-66KnGHsd2G0ijml73x9bEsNJh1)
+28/11/2021, 21:56:59 - INFO - Req!!! (sid: 6_4DmruBPNCHCo8hs4VfeLRrLG9QGoo2)
+28/11/2021, 21:56:59 - INFO - Req!!! (sid: 6_4DmruBPNCHCo8hs4VfeLRrLG9QGoo2)
+28/11/2021, 21:57:22 - INFO - Req!!! (sid: hopAFIM4lNJeoDdKSetGDUUib28UN9qL)
+28/11/2021, 21:57:22 - INFO - Req!!! (sid: 6_4DmruBPNCHCo8hs4VfeLRrLG9QGoo2)
+28/11/2021, 21:57:22 - INFO - Req!!! (sid: 6_4DmruBPNCHCo8hs4VfeLRrLG9QGoo2)
+28/11/2021, 21:57:26 - INFO - Req!!! (sid: 6_4DmruBPNCHCo8hs4VfeLRrLG9QGoo2)
+28/11/2021, 21:57:26 - INFO - Req!!! (sid: 6_4DmruBPNCHCo8hs4VfeLRrLG9QGoo2)
+28/11/2021, 22:00:04 - INFO - Req!!! (sid: 6_4DmruBPNCHCo8hs4VfeLRrLG9QGoo2)
+28/11/2021, 22:00:04 - INFO - Req!!! (sid: 6_4DmruBPNCHCo8hs4VfeLRrLG9QGoo2)
+28/11/2021, 22:00:07 - INFO - Req!!! (sid: TThjBG8cg-bAVCk08OvN7rrrk9KDkKRG)
+28/11/2021, 22:00:07 - INFO - Req!!! (sid: 6_4DmruBPNCHCo8hs4VfeLRrLG9QGoo2)
+28/11/2021, 22:00:07 - INFO - Req!!! (sid: 6_4DmruBPNCHCo8hs4VfeLRrLG9QGoo2)
+28/11/2021, 22:00:11 - INFO - Req!!! (sid: 6_4DmruBPNCHCo8hs4VfeLRrLG9QGoo2)
+28/11/2021, 22:00:11 - INFO - Req!!! (sid: 6_4DmruBPNCHCo8hs4VfeLRrLG9QGoo2)
+28/11/2021, 22:02:27 - INFO - Req!!! (sid: 6_4DmruBPNCHCo8hs4VfeLRrLG9QGoo2)
+28/11/2021, 22:02:27 - INFO - Req!!! (sid: 6_4DmruBPNCHCo8hs4VfeLRrLG9QGoo2)
+28/11/2021, 22:02:32 - INFO - Req!!! (sid: 4v-N_FYhpeHLJLBp953GaFyXmp66Avno)
+28/11/2021, 22:02:32 - INFO - Req!!! (sid: 6_4DmruBPNCHCo8hs4VfeLRrLG9QGoo2)
+28/11/2021, 22:02:32 - INFO - Req!!! (sid: 6_4DmruBPNCHCo8hs4VfeLRrLG9QGoo2)
+28/11/2021, 22:02:47 - INFO - Req!!! (sid: 6_4DmruBPNCHCo8hs4VfeLRrLG9QGoo2)
+28/11/2021, 22:02:47 - INFO - Req!!! (sid: 6_4DmruBPNCHCo8hs4VfeLRrLG9QGoo2)
+28/11/2021, 22:02:47 - INFO - Req!!! (sid: 6_4DmruBPNCHCo8hs4VfeLRrLG9QGoo2)
+28/11/2021, 22:02:51 - INFO - Req!!! (sid: 7Uk1oEf-gKpwnbRts4KrvkEd2pWC2moT)
+28/11/2021, 22:02:51 - INFO - Req!!! (sid: 6_4DmruBPNCHCo8hs4VfeLRrLG9QGoo2)
+28/11/2021, 22:02:51 - INFO - Req!!! (sid: 6_4DmruBPNCHCo8hs4VfeLRrLG9QGoo2)
+28/11/2021, 22:02:58 - INFO - Req!!! (sid: 6_4DmruBPNCHCo8hs4VfeLRrLG9QGoo2)
+28/11/2021, 22:02:58 - INFO - Req!!! (sid: 6_4DmruBPNCHCo8hs4VfeLRrLG9QGoo2)
+28/11/2021, 22:08:22 - INFO - Req!!! (sid: 6_4DmruBPNCHCo8hs4VfeLRrLG9QGoo2)
+28/11/2021, 22:08:22 - INFO - Req!!! (sid: 6_4DmruBPNCHCo8hs4VfeLRrLG9QGoo2)
+28/11/2021, 22:08:22 - INFO - Req!!! (sid: 6_4DmruBPNCHCo8hs4VfeLRrLG9QGoo2)
+28/11/2021, 22:09:28 - INFO - Req!!! (sid: 6_4DmruBPNCHCo8hs4VfeLRrLG9QGoo2)
+28/11/2021, 22:09:28 - INFO - Req!!! (sid: 6_4DmruBPNCHCo8hs4VfeLRrLG9QGoo2)
+28/11/2021, 22:10:21 - INFO - Req!!! (sid: 6_4DmruBPNCHCo8hs4VfeLRrLG9QGoo2)
+28/11/2021, 22:10:21 - INFO - Req!!! (sid: 6_4DmruBPNCHCo8hs4VfeLRrLG9QGoo2)
+28/11/2021, 22:10:25 - INFO - Req!!! (sid: Jst81kwoe9srk_ukBufiPKJOh2se9_Ug)
+28/11/2021, 22:10:25 - INFO - Req!!! (sid: 6_4DmruBPNCHCo8hs4VfeLRrLG9QGoo2)
+28/11/2021, 22:10:29 - INFO - Req!!! (sid: 6_4DmruBPNCHCo8hs4VfeLRrLG9QGoo2)
+28/11/2021, 22:10:29 - INFO - Req!!! (sid: 6_4DmruBPNCHCo8hs4VfeLRrLG9QGoo2)
+28/11/2021, 22:21:37 - INFO - Req!!! (sid: 6_4DmruBPNCHCo8hs4VfeLRrLG9QGoo2)
+28/11/2021, 22:23:22 - INFO - Req!!! (sid: 5OkCPod3Fnv5pBhE2QLFlzRiRKwl20zc)
+28/11/2021, 22:23:23 - INFO - Req!!! (sid: 6_4DmruBPNCHCo8hs4VfeLRrLG9QGoo2)
+28/11/2021, 22:24:27 - INFO - Req!!! (sid: o99nwhw4Envr6S3KrBwRZjKymSyL2jpK)
+28/11/2021, 22:24:27 - INFO - Req!!! (sid: 6_4DmruBPNCHCo8hs4VfeLRrLG9QGoo2)
+28/11/2021, 22:25:30 - INFO - Req!!! (sid: trP1taPQKUn8SMEL-f2raDmZAFI9yfB8)
+28/11/2021, 22:25:30 - INFO - Req!!! (sid: 6_4DmruBPNCHCo8hs4VfeLRrLG9QGoo2)
+28/11/2021, 22:25:35 - INFO - Req!!! (sid: 6_4DmruBPNCHCo8hs4VfeLRrLG9QGoo2)
+28/11/2021, 22:25:47 - INFO - Req!!! (sid: tXzbovPsvnoowi0lv7a51iJ4F_Q0X2L2)
+28/11/2021, 22:25:52 - DEBUG - auth.service - login with username: a (sid: X3uhlexmeXQDivosuBLy_90DOtroukwL)
+28/11/2021, 22:25:52 - INFO - Req!!! (sid: Y1MWSqzH5Q37OTWPmVajFyM4TxrxePZY)
+28/11/2021, 22:25:56 - INFO - Req!!! (sid: X3uhlexmeXQDivosuBLy_90DOtroukwL)
+28/11/2021, 22:25:56 - INFO - Req from: a (sid: X3uhlexmeXQDivosuBLy_90DOtroukwL)
+28/11/2021, 22:26:03 - INFO - Req!!! (sid: X3uhlexmeXQDivosuBLy_90DOtroukwL)
+28/11/2021, 22:26:03 - INFO - Req from: a (sid: X3uhlexmeXQDivosuBLy_90DOtroukwL)
+28/11/2021, 22:26:03 - INFO - Req!!! (sid: X3uhlexmeXQDivosuBLy_90DOtroukwL)
+28/11/2021, 22:26:03 - INFO - Req from: a (sid: X3uhlexmeXQDivosuBLy_90DOtroukwL)
+28/11/2021, 22:26:34 - INFO - Req!!! (sid: X3uhlexmeXQDivosuBLy_90DOtroukwL)
+28/11/2021, 22:26:34 - INFO - Req from: a (sid: X3uhlexmeXQDivosuBLy_90DOtroukwL)
+28/11/2021, 22:26:34 - INFO - Req!!! (sid: X3uhlexmeXQDivosuBLy_90DOtroukwL)
+28/11/2021, 22:26:34 - INFO - Req from: a (sid: X3uhlexmeXQDivosuBLy_90DOtroukwL)
+28/11/2021, 22:26:40 - INFO - Req!!! (sid: X3uhlexmeXQDivosuBLy_90DOtroukwL)
+28/11/2021, 22:26:40 - INFO - Req from: a (sid: X3uhlexmeXQDivosuBLy_90DOtroukwL)
+28/11/2021, 22:26:40 - INFO - Req!!! (sid: X3uhlexmeXQDivosuBLy_90DOtroukwL)
+28/11/2021, 22:26:40 - INFO - Req from: a (sid: X3uhlexmeXQDivosuBLy_90DOtroukwL)
+28/11/2021, 22:33:35 - INFO - Req!!! (sid: X3uhlexmeXQDivosuBLy_90DOtroukwL)
+28/11/2021, 22:33:35 - INFO - Req from: a (sid: X3uhlexmeXQDivosuBLy_90DOtroukwL)
+28/11/2021, 22:33:35 - INFO - Req!!! (sid: X3uhlexmeXQDivosuBLy_90DOtroukwL)
+28/11/2021, 22:33:35 - INFO - Req from: a (sid: X3uhlexmeXQDivosuBLy_90DOtroukwL)
+28/11/2021, 22:33:45 - INFO - Req!!! (sid: m8M_6HgX_6AanYPQA81xRrxdgKzi_8Yt)
+28/11/2021, 22:33:48 - INFO - Req!!! (sid: X3uhlexmeXQDivosuBLy_90DOtroukwL)
+28/11/2021, 22:33:48 - INFO - Req from: a (sid: X3uhlexmeXQDivosuBLy_90DOtroukwL)
+28/11/2021, 22:33:51 - INFO - Req!!! (sid: X3uhlexmeXQDivosuBLy_90DOtroukwL)
+28/11/2021, 22:33:51 - INFO - Req from: a (sid: X3uhlexmeXQDivosuBLy_90DOtroukwL)
+28/11/2021, 22:33:51 - INFO - Req!!! (sid: X3uhlexmeXQDivosuBLy_90DOtroukwL)
+28/11/2021, 22:33:51 - INFO - Req from: a (sid: X3uhlexmeXQDivosuBLy_90DOtroukwL)
+28/11/2021, 22:33:53 - INFO - Req!!! (sid: ZrXi-UKs7j1Bl9WOwtqxKj7aQhyVuo1S)
+28/11/2021, 22:34:22 - INFO - Req!!! (sid: X3uhlexmeXQDivosuBLy_90DOtroukwL)
+28/11/2021, 22:34:22 - INFO - Req from: a (sid: X3uhlexmeXQDivosuBLy_90DOtroukwL)
+28/11/2021, 22:47:40 - INFO - Server is running on port: 3000 
+28/11/2021, 22:47:44 - INFO - Req!!! (sid: 7nQRuAkMRvKIMsoZDRKZole3IIzuShcT)
+28/11/2021, 22:47:45 - INFO - Req!!! (sid: 1XbozTNVXM1AKdV3-UCV8Is_0rqTgRWY)
+28/11/2021, 22:47:45 - ERROR - Cannot get reviews | ReferenceError: logger is not defined (sid: 1XbozTNVXM1AKdV3-UCV8Is_0rqTgRWY)
+28/11/2021, 22:48:00 - INFO - Server is running on port: 3000 
+28/11/2021, 22:48:34 - INFO - Server is running on port: 3000 
+28/11/2021, 22:48:42 - INFO - Req!!! (sid: Vt_ztbW-gkF4D3VaEcwevANtDIuD-4pg)
+28/11/2021, 22:48:43 - INFO - Req!!! (sid: B5uSPyuw-0nWBGK_x6HckS2eF831Chtk)
+28/11/2021, 23:03:56 - INFO - Req!!! (sid: B5uSPyuw-0nWBGK_x6HckS2eF831Chtk)
+28/11/2021, 23:06:46 - INFO - Req!!! (sid: zmAZjEzMU_XzGHy33XKgvy4RMiguhtVo)
+28/11/2021, 23:06:46 - INFO - Req!!! (sid: B5uSPyuw-0nWBGK_x6HckS2eF831Chtk)
+28/11/2021, 23:08:26 - INFO - Req!!! (sid: B5uSPyuw-0nWBGK_x6HckS2eF831Chtk)
+29/11/2021, 11:38:34 - INFO - Req!!! (sid: x9zfOLYPZzKoEy-CnMjs1q7nvhU0Nk8B)
+29/11/2021, 11:38:34 - INFO - Req!!! (sid: B5uSPyuw-0nWBGK_x6HckS2eF831Chtk)
+29/11/2021, 13:00:06 - INFO - Server is running on port: 3000 
+29/11/2021, 13:00:11 - INFO - Req!!! (sid: kjW_t3aRNHtzmw9dZqxfWhTtyvAON9My)
+29/11/2021, 13:00:11 - INFO - Req!!! (sid: 8aXHkGyZgwhguSgrVytmYXKC-fU_pfyS)
+29/11/2021, 13:00:13 - INFO - Req!!! (sid: gXLqE_WhgCfwarbO8PkSC5YDvXgK2JlX)
+29/11/2021, 13:32:57 - INFO - Req!!! (sid: NSNOYrN_OLd_bCbjIToMG9uuTTbV1ipG)
+29/11/2021, 13:32:57 - INFO - Req!!! (sid: hAeK-WH54b4_LHYgcChMy5QtPL419QHa)
+29/11/2021, 14:13:29 - INFO - Server is running on port: 3000 
+29/11/2021, 14:13:30 - INFO - Server is running on port: 3000 
+29/11/2021, 14:17:33 - INFO - Server is running on port: 3000 
+29/11/2021, 14:17:43 - INFO - Req!!! (sid: Bo7CZDHJdtNTEZSOYvobSpS7H-_mfw_Q)
+29/11/2021, 14:17:45 - INFO - Req!!! (sid: TCDc0pqPwX9BS6cellU23b5uDCmh-tUF)
+29/11/2021, 14:17:57 - INFO - Req!!! (sid: s3HFjR5ypx5jUj4fTSjQYH-2pFUYD-fP)
+29/11/2021, 14:17:57 - INFO - Req!!! (sid: _n4aoONa0zBPSO-NgNuWgjON4o4XCHNj)
+29/11/2021, 14:19:41 - INFO - Server is running on port: 3000 
+29/11/2021, 14:19:45 - INFO - Req!!! (sid: RomP4L_MrIQ1mvP8SdSG1Oy_c9B7meSn)
+29/11/2021, 14:19:45 - INFO - Req!!! (sid: o_LobGspZ7IKxZDtTpUWDm-z1eDbO-OK)

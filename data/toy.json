@@ -1,0 +1,105 @@
+[
+  {
+    "_id": "t101",
+    "name": "Talking Doll",
+    "price": 123,
+    "labels": [
+      "Art",
+      "Baby",
+      "Doll"
+    ],
+    "createdAt": 121324343554,
+    "inStock": true,
+    "reviews": [
+      "Great!"
+    ]
+  },
+  {
+    "name": "Barbie",
+    "price": 1234,
+    "labels": [
+      "Doll",
+      "Art"
+    ],
+    "createdAt": 121324343554,
+    "inStock": "false",
+    "reviews": [
+      "Great!"
+    ],
+    "_id": "a90Nz"
+  },
+  {
+    "_id": "RS70O",
+    "name": "Teddy",
+    "price": 89,
+    "labels": [
+      "Doll",
+      "Baby"
+    ],
+    "createdAt": "11/23/2021, 6:15:24 PM",
+    "inStock": "false",
+    "reviews": []
+  },
+  {
+    "_id": "sbIOd",
+    "name": "candy",
+    "price": 10,
+    "labels": [
+      "Doll",
+      "Baby"
+    ],
+    "createdAt": "11/23/2021, 6:31:54 PM",
+    "inStock": "false",
+    "reviews": []
+  },
+  {
+    "_id": "dR56u",
+    "name": "Taki-toyds",
+    "price": "50",
+    "labels": [
+      "Doll",
+      "Baby"
+    ],
+    "createdAt": "11/24/2021, 5:23:51 PM",
+    "inStock": true,
+    "reviews": []
+  },
+  {
+    "_id": "VkpVR",
+    "name": "Domino",
+    "price": "100",
+    "labels": [],
+    "createdAt": "11/24/2021, 6:58:17 PM",
+    "inStock": "false",
+    "reviews": []
+  },
+  {
+    "_id": "qGPdK",
+    "name": "Toy",
+    "price": "500",
+    "labels": [],
+    "createdAt": "11/24/2021, 6:58:40 PM",
+    "inStock": true,
+    "reviews": []
+  },
+  {
+    "_id": "3Ldl1",
+    "name": "Hat",
+    "price": "98",
+    "labels": [],
+    "createdAt": "11/24/2021, 6:59:16 PM",
+    "inStock": "false",
+    "reviews": []
+  },
+  {
+    "_id": "eE6cp",
+    "name": "aaa",
+    "price": "1",
+    "labels": [
+      "On wheels"
+    ],
+    "createdAt": "11/24/2021, 8:15:17 PM",
+    "inStock": true,
+    "reviews": []
+  }
+]
