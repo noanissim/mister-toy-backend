@@ -30,7 +30,7 @@ async function addToy(req, res) {
   try {
     const toy = req.body
     const addedToy = await toyService.add(toy)
-    console.log('addedToy', addedToy)
+    // console.log('addedToy', addedToy)
     res.json(addedToy)
   } catch (err) {
     logger.error('Failed to add toy', err)
@@ -54,9 +54,9 @@ async function updateToy(req, res) {
 async function removeToy(req, res) {
   try {
     const toyId = req.params.id
-    console.log('toyId', toyId)
+    // console.log('toyId', toyId)
     const removedId = await toyService.remove(toyId)
-    console.log('removedId', removedId)
+    // console.log('removedId', removedId)
     res.send(removedId)
   } catch (err) {
     logger.error('Failed to remove toy', err)

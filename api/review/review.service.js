@@ -92,6 +92,9 @@ async function add(review) {
 }
 
 function _buildCriteria(filterBy) {
+  // if (filterBy.toyId) criteria = { aboutToyId: ObjectId(filterBy.toyId) }
+  // else if (filterBy.userId) criteria = { byUserId: ObjectId(filterBy.userId) }
+  // console.log('criteriaaaaaaaa', criteria)
   const criteria = { aboutToyId: ObjectId(filterBy.id) }
   return criteria
 }

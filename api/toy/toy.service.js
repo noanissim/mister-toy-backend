@@ -6,10 +6,10 @@ async function query(filterBy) {
   try {
     const criteria = _buildCriteria(filterBy)
     // const criteria = {}
-    console.log('criteria', criteria)
+    // console.log('criteria', criteria)
     const collection = await dbService.getCollection('toy')
     var sortBy = filterBy.sort
-    console.log('sortBy', sortBy)
+    // console.log('sortBy', sortBy)
     var sorted = { [sortBy]: 1 }
     var toys = await collection.find(criteria).sort(sorted).toArray()
 
@@ -49,7 +49,7 @@ async function add(toy) {
     delete toy._id
     const addedToy = await collection.insertOne(toy)
     const id = addedToy.insertedId.toString()
-    console.log('addedToy', addedToy)
+    // console.log('addedToy', addedToy)
     return addedToy
   } catch (err) {
     logger.error('cannot insert toy', err)
